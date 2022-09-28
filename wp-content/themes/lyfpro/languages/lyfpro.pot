@@ -1,0 +1,5615 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lyfpro WordPress Theme\n"
+"POT-Creation-Date: 2021-06-14 18:28+0530\n"
+"PO-Revision-Date: 2016-04-01 11:48+0530\n"
+"Last-Translator: \n"
+"Language-Team: Designervily Team <mail@designervily.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;"
+"_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:34
+msgid "Back To Home Page"
+msgstr ""
+
+#: ../archive.php:47 ../theme-parts/service/service-style-1.php:16
+msgid "More"
+msgstr ""
+
+#: ../comments.php:33
+#, php-format
+msgctxt "one comment title"
+msgid "One Reply to &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: ../comments.php:35
+#, php-format
+msgctxt "multiple comments title"
+msgid "%2$s Replies to &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: ../comments.php:45
+msgid "Reply"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:75 ../theme-parts/header/header-style-1.php:30
+#: ../theme-parts/header/header-style-2.php:29
+#: ../theme-parts/header/header-style-3.php:41
+#: ../theme-parts/header/header-style-4.php:30
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:76
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:255 ../functions.php:260 ../functions.php:265
+msgid "Header"
+msgstr ""
+
+#: ../functions.php:402
+msgid "Are you sure you want to permenently close this wizard?"
+msgstr ""
+
+#: ../functions.php:403
+#, php-format
+msgid "You can start this wizard from %1$s Appearance > Lyfpro Theme Setup %2$s section"
+msgstr ""
+
+#: ../functions.php:405 ../functions.php:501
+msgid "Yes close this message"
+msgstr ""
+
+#: ../functions.php:407 ../functions.php:503
+msgid "No, keep this message"
+msgstr ""
+
+#: ../functions.php:421
+msgid "Lyfpro Theme Setup Wizard"
+msgstr ""
+
+#: ../functions.php:422
+msgid ""
+"This Lyfpro theme comes with one-click setup wizard. This step-by-step wizard will "
+"install all required plugins, install child theme, install demo content and also "
+"import sliders."
+msgstr ""
+
+#: ../functions.php:426
+msgid "Start Theme Setup Wizard"
+msgstr ""
+
+#: ../functions.php:427 ../functions.php:490
+msgid "Permanently disable this message"
+msgstr ""
+
+#: ../functions.php:468
+msgid "Back"
+msgstr ""
+
+#: ../functions.php:479
+msgid "Happy with our theme?"
+msgstr ""
+
+#: ../functions.php:480
+msgid ""
+"We like to know how is your experiance with our theme. If you have any question than "
+"you can create ticket on our support site"
+msgstr ""
+
+#: ../functions.php:484
+msgid "I have a question or problem"
+msgstr ""
+
+#: ../functions.php:487
+msgid "I am happy with the theme"
+msgstr ""
+
+#: ../functions.php:499
+msgid "Are you sure you want to permenently close this box?"
+msgstr ""
+
+#: ../functions.php:512
+msgid "Have any question or problem?"
+msgstr ""
+
+#: ../functions.php:513
+#, php-format
+msgid ""
+"You can read our theme documents to get how to work with the theme. Still not solved, "
+"than feel free to contact us via our support site at %1$s"
+msgstr ""
+
+#: ../functions.php:517
+msgid "Lyfpro Theme Documents"
+msgstr ""
+
+#: ../functions.php:520
+msgid "Go to Designervily support site"
+msgstr ""
+
+#: ../functions.php:530
+msgid "Glad to hear you like our theme"
+msgstr ""
+
+#: ../functions.php:531
+#, php-format
+msgid ""
+"Thanks for your support. Please provide us 5-star ratings. This will help us a lot.\n"
+"It just take 1 minute. %1$s"
+msgstr ""
+
+#: ../functions.php:532
+msgid "Click here to go for review now"
+msgstr ""
+
+#: ../functions.php:536
+msgid "Ratings Steps"
+msgstr ""
+
+#: ../header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: ../header.php:55 ../searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../includes/acf/designervily-acf-iconpicker/dsvy_fonticonpicker-v4.php:19
+#: ../includes/acf/designervily-acf-iconpicker/dsvy_fonticonpicker-v5.php:19
+msgid "Icon Picker"
+msgstr ""
+
+#: ../includes/acf/designervily-acf-iconpicker/dsvy_fonticonpicker-v4.php:20
+#: ../includes/acf/designervily-acf-iconpicker/dsvy_fonticonpicker-v5.php:20
+msgid "jQuery"
+msgstr ""
+
+#: ../includes/acf/designervily-acf-iconpicker/dsvy_fonticonpicker-v4.php:62
+msgid "No icons found"
+msgstr ""
+
+#: ../includes/acf/designervily-acf-iconpicker/dsvy_fonticonpicker-v4.php:68
+#: ../includes/acf/designervily-acf-iconpicker/dsvy_fonticonpicker-v5.php:70
+msgid "None"
+msgstr ""
+
+#: ../includes/actions.php:10 ../includes/customizer-options.php:2493 ../sidebar.php:15
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../includes/actions.php:12
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: ../includes/actions.php:19 ../includes/customizer-options.php:383 ../sidebar.php:19
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../includes/actions.php:21
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr ""
+
+#: ../includes/actions.php:33 ../includes/customizer-options.php:3248 ../sidebar.php:26
+msgid "Search Results Sidebar"
+msgstr ""
+
+#: ../includes/actions.php:35
+msgid "Add widgets here to appear on search result pages."
+msgstr ""
+
+#: ../includes/actions.php:42
+msgid "Footer Row - 1st Column"
+msgstr ""
+
+#: ../includes/actions.php:44 ../includes/actions.php:53 ../includes/actions.php:62
+#: ../includes/actions.php:71
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: ../includes/actions.php:51
+msgid "Footer Row - 2nd Column"
+msgstr ""
+
+#: ../includes/actions.php:60
+msgid "Footer Row - 3rd Column"
+msgstr ""
+
+#: ../includes/actions.php:69
+msgid "Footer Row - 4th Column"
+msgstr ""
+
+#: ../includes/actions.php:566
+msgid "Name"
+msgstr ""
+
+#: ../includes/actions.php:571 ../includes/meta-boxes.php:717
+#: ../theme-parts/team-single-style-1.php:20 ../theme-parts/team-single-style-2.php:21
+msgid "Email"
+msgstr ""
+
+#: ../includes/actions.php:576 ../theme-parts/team-single-style-1.php:28
+#: ../theme-parts/team-single-style-2.php:30
+msgid "Website"
+msgstr ""
+
+#: ../includes/actions.php:585
+msgid "Enter your comment here..."
+msgstr ""
+
+#: ../includes/actions.php:824 ../includes/actions.php:825
+#: ../includes/kirki-config.php:9
+msgid "Lyfpro Options"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:301
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:302 ../includes/merlin-config.php:169
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:304
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:306
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:307
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:310
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:316
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:322
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum "
+"compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure maximum "
+"compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:328
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:345
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:350
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:355
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:359
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:360
+#: ../includes/class-tgm-plugin-activation.php:814
+#: ../includes/class-tgm-plugin-activation.php:2324
+#: ../includes/class-tgm-plugin-activation.php:3214
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:361
+#: ../includes/class-tgm-plugin-activation.php:2854
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:362
+msgid "The following plugin was activated successfully :"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:366
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please update "
+"the plugin."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:369
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:370
+msgid ""
+"There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:371
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:552
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:553
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:905
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:905
+#: ../includes/class-tgm-plugin-activation.php:908
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according to "
+"the WordPress guidelines."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:908
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1070
+#: ../includes/class-tgm-plugin-activation.php:2672
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1844
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2098
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2100
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2114
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2117
+msgid "External Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2120
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2135
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2138
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2140
+msgid "Active"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2144
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2146
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2148
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2155
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2194
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2198
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2202
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2206
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2280
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2286
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2293
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2303
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2324
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2337
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2338
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2339
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2342
+msgid "Version"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2343 ../setup/envato_setup.php:1005
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2387
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2397
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2460
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2489 ../includes/merlin-config.php:141
+#: ../includes/merlin-config.php:142 ../includes/merlin-config.php:143
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2494
+msgid "Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2497 ../includes/merlin-config.php:145
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2522
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2524
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2557
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2559
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2640
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2661
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2675
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2853
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3141
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3144
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3146
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3149
+msgid ""
+"The installation and activation process is starting. This process may take a while on "
+"some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3151
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3152
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3154
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3157
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so "
+"please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3159
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3160
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3162
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/core.php:6
+msgid "Lyfpro Icon"
+msgstr ""
+
+#: ../includes/core.php:13
+msgid "Font Awesome - Regular"
+msgstr ""
+
+#: ../includes/core.php:20
+msgid "Font Awesome - Solid"
+msgstr ""
+
+#: ../includes/core.php:27
+msgid "Font Awesome - Brands"
+msgstr ""
+
+#: ../includes/core.php:34 ../includes/elementor-core.php:1069
+msgid "Material Icons"
+msgstr ""
+
+#: ../includes/core.php:41 ../includes/elementor-core.php:1285
+msgid "Stroke Gap Icons"
+msgstr ""
+
+#: ../includes/core.php:60 ../includes/customizer-options.php:3
+#: ../includes/customizer-options.php:2744 ../includes/customizer-options.php:2752
+#: ../includes/meta-boxes.php:1722 ../includes/meta-boxes.php:1784
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/core.php:61 ../includes/customizer-options.php:5
+#: ../includes/customizer-options.php:2958 ../includes/customizer-options.php:2966
+msgid "Service"
+msgstr ""
+
+#: ../includes/core.php:62 ../includes/customizer-options.php:7
+#: ../includes/customizer-options.php:3107
+msgid "Team Member"
+msgstr ""
+
+#: ../includes/core.php:76
+msgid "Icon Heading"
+msgstr ""
+
+#: ../includes/core.php:80 ../includes/customizer-options.php:9
+#: ../includes/customizer-options.php:3172
+msgid "Testimonial"
+msgstr ""
+
+#: ../includes/core.php:81 ../includes/customizer-options.php:2581
+msgid "Client"
+msgstr ""
+
+#: ../includes/core.php:82 ../includes/core.php:1152
+msgid "Blog"
+msgstr ""
+
+#: ../includes/core.php:83
+msgid "Pricing Table"
+msgstr ""
+
+#: ../includes/core.php:84
+msgid "Facts In Digits"
+msgstr ""
+
+#: ../includes/core.php:85
+msgid "Static Box"
+msgstr ""
+
+#: ../includes/core.php:86
+msgid "Opening Hours List"
+msgstr ""
+
+#: ../includes/core.php:124
+msgid "Edit"
+msgstr ""
+
+#: ../includes/core.php:352
+#, php-format
+msgid "Share on %1$s"
+msgstr ""
+
+#: ../includes/core.php:1159 ../includes/meta-boxes.php:1393
+#: ../includes/meta-boxes.php:1405
+#, php-format
+msgid "%1$s "
+msgstr ""
+
+#: ../includes/core.php:1183
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../includes/core.php:1190
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../includes/core.php:1199
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../includes/core.php:1203
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: ../includes/core.php:1205
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: ../includes/core.php:1207
+msgid "Archives"
+msgstr ""
+
+#: ../includes/core.php:1627
+msgid "No Comments"
+msgstr ""
+
+#: ../includes/core.php:1627
+msgid "One Comment"
+msgstr ""
+
+#: ../includes/core.php:1627
+msgid "% Comments"
+msgstr ""
+
+#: ../includes/core.php:1690
+#, php-format
+msgctxt "%1$s = human-readable time difference"
+msgid "%1$s ago"
+msgstr ""
+
+#: ../includes/core.php:1692
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/core.php:1697
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/core.php:2180
+msgid "All"
+msgstr ""
+
+#: ../includes/core.php:2295 ../includes/elementor/fid.php:49
+#: ../includes/elementor/icon-heading.php:45 ../includes/elementor/icon-heading.php:55
+#: ../includes/elementor/icon-heading.php:429
+#: ../includes/elementor/multiple-icon-heading.php:199
+#: ../includes/elementor/multiple-icon-heading.php:209
+#: ../includes/elementor/pricing-table.php:234
+#: ../includes/elementor/pricing-table.php:244
+#: ../includes/elementor/pricing-table.php:368
+msgid "Icon"
+msgstr ""
+
+#: ../includes/customizer-options.php:4 ../includes/customizer-options.php:2777
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../includes/customizer-options.php:6 ../includes/customizer-options.php:2991
+msgid "Service Category"
+msgstr ""
+
+#: ../includes/customizer-options.php:8 ../includes/customizer-options.php:3132
+msgid "Team Group"
+msgstr ""
+
+#: ../includes/customizer-options.php:10 ../includes/customizer-options.php:3188
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../includes/customizer-options.php:101
+msgid "Write Social URL."
+msgstr ""
+
+#: ../includes/customizer-options.php:107
+msgid "Hide this column"
+msgstr ""
+
+#: ../includes/customizer-options.php:108
+msgid "1%"
+msgstr ""
+
+#: ../includes/customizer-options.php:109
+msgid "2%"
+msgstr ""
+
+#: ../includes/customizer-options.php:110
+msgid "3%"
+msgstr ""
+
+#: ../includes/customizer-options.php:111
+msgid "4%"
+msgstr ""
+
+#: ../includes/customizer-options.php:112
+msgid "5%"
+msgstr ""
+
+#: ../includes/customizer-options.php:113
+msgid "6%"
+msgstr ""
+
+#: ../includes/customizer-options.php:114
+msgid "7%"
+msgstr ""
+
+#: ../includes/customizer-options.php:115
+msgid "8%"
+msgstr ""
+
+#: ../includes/customizer-options.php:116
+msgid "9%"
+msgstr ""
+
+#: ../includes/customizer-options.php:117
+msgid "10%"
+msgstr ""
+
+#: ../includes/customizer-options.php:118
+msgid "11%"
+msgstr ""
+
+#: ../includes/customizer-options.php:119
+msgid "12%"
+msgstr ""
+
+#: ../includes/customizer-options.php:120
+msgid "13%"
+msgstr ""
+
+#: ../includes/customizer-options.php:121
+msgid "14%"
+msgstr ""
+
+#: ../includes/customizer-options.php:122
+msgid "15%"
+msgstr ""
+
+#: ../includes/customizer-options.php:123
+msgid "16%"
+msgstr ""
+
+#: ../includes/customizer-options.php:124
+msgid "17%"
+msgstr ""
+
+#: ../includes/customizer-options.php:125
+msgid "18%"
+msgstr ""
+
+#: ../includes/customizer-options.php:126
+msgid "19%"
+msgstr ""
+
+#: ../includes/customizer-options.php:127
+msgid "20%"
+msgstr ""
+
+#: ../includes/customizer-options.php:128
+msgid "21%"
+msgstr ""
+
+#: ../includes/customizer-options.php:129
+msgid "22%"
+msgstr ""
+
+#: ../includes/customizer-options.php:130
+msgid "23%"
+msgstr ""
+
+#: ../includes/customizer-options.php:131
+msgid "24%"
+msgstr ""
+
+#: ../includes/customizer-options.php:132
+msgid "25%"
+msgstr ""
+
+#: ../includes/customizer-options.php:133
+msgid "26%"
+msgstr ""
+
+#: ../includes/customizer-options.php:134
+msgid "27%"
+msgstr ""
+
+#: ../includes/customizer-options.php:135
+msgid "28%"
+msgstr ""
+
+#: ../includes/customizer-options.php:136
+msgid "29%"
+msgstr ""
+
+#: ../includes/customizer-options.php:137
+msgid "30%"
+msgstr ""
+
+#: ../includes/customizer-options.php:138
+msgid "31%"
+msgstr ""
+
+#: ../includes/customizer-options.php:139
+msgid "32%"
+msgstr ""
+
+#: ../includes/customizer-options.php:140
+msgid "33%"
+msgstr ""
+
+#: ../includes/customizer-options.php:141
+msgid "34%"
+msgstr ""
+
+#: ../includes/customizer-options.php:142
+msgid "35%"
+msgstr ""
+
+#: ../includes/customizer-options.php:143
+msgid "36%"
+msgstr ""
+
+#: ../includes/customizer-options.php:144
+msgid "37%"
+msgstr ""
+
+#: ../includes/customizer-options.php:145
+msgid "38%"
+msgstr ""
+
+#: ../includes/customizer-options.php:146
+msgid "39%"
+msgstr ""
+
+#: ../includes/customizer-options.php:147
+msgid "40%"
+msgstr ""
+
+#: ../includes/customizer-options.php:148
+msgid "41%"
+msgstr ""
+
+#: ../includes/customizer-options.php:149
+msgid "42%"
+msgstr ""
+
+#: ../includes/customizer-options.php:150
+msgid "43%"
+msgstr ""
+
+#: ../includes/customizer-options.php:151
+msgid "44%"
+msgstr ""
+
+#: ../includes/customizer-options.php:152
+msgid "45%"
+msgstr ""
+
+#: ../includes/customizer-options.php:153
+msgid "46%"
+msgstr ""
+
+#: ../includes/customizer-options.php:154
+msgid "47%"
+msgstr ""
+
+#: ../includes/customizer-options.php:155
+msgid "48%"
+msgstr ""
+
+#: ../includes/customizer-options.php:156
+msgid "49%"
+msgstr ""
+
+#: ../includes/customizer-options.php:157
+msgid "50%"
+msgstr ""
+
+#: ../includes/customizer-options.php:158
+msgid "51%"
+msgstr ""
+
+#: ../includes/customizer-options.php:159
+msgid "52%"
+msgstr ""
+
+#: ../includes/customizer-options.php:160
+msgid "53%"
+msgstr ""
+
+#: ../includes/customizer-options.php:161
+msgid "54%"
+msgstr ""
+
+#: ../includes/customizer-options.php:162
+msgid "55%"
+msgstr ""
+
+#: ../includes/customizer-options.php:163
+msgid "56%"
+msgstr ""
+
+#: ../includes/customizer-options.php:164
+msgid "57%"
+msgstr ""
+
+#: ../includes/customizer-options.php:165
+msgid "58%"
+msgstr ""
+
+#: ../includes/customizer-options.php:166
+msgid "59%"
+msgstr ""
+
+#: ../includes/customizer-options.php:167
+msgid "60%"
+msgstr ""
+
+#: ../includes/customizer-options.php:168
+msgid "61%"
+msgstr ""
+
+#: ../includes/customizer-options.php:169
+msgid "62%"
+msgstr ""
+
+#: ../includes/customizer-options.php:170
+msgid "63%"
+msgstr ""
+
+#: ../includes/customizer-options.php:171
+msgid "64%"
+msgstr ""
+
+#: ../includes/customizer-options.php:172
+msgid "65%"
+msgstr ""
+
+#: ../includes/customizer-options.php:173
+msgid "66%"
+msgstr ""
+
+#: ../includes/customizer-options.php:174
+msgid "67%"
+msgstr ""
+
+#: ../includes/customizer-options.php:175
+msgid "68%"
+msgstr ""
+
+#: ../includes/customizer-options.php:176
+msgid "69%"
+msgstr ""
+
+#: ../includes/customizer-options.php:177
+msgid "70%"
+msgstr ""
+
+#: ../includes/customizer-options.php:178
+msgid "71%"
+msgstr ""
+
+#: ../includes/customizer-options.php:179
+msgid "72%"
+msgstr ""
+
+#: ../includes/customizer-options.php:180
+msgid "73%"
+msgstr ""
+
+#: ../includes/customizer-options.php:181
+msgid "74%"
+msgstr ""
+
+#: ../includes/customizer-options.php:182
+msgid "75%"
+msgstr ""
+
+#: ../includes/customizer-options.php:183
+msgid "76%"
+msgstr ""
+
+#: ../includes/customizer-options.php:184
+msgid "77%"
+msgstr ""
+
+#: ../includes/customizer-options.php:185
+msgid "78%"
+msgstr ""
+
+#: ../includes/customizer-options.php:186
+msgid "79%"
+msgstr ""
+
+#: ../includes/customizer-options.php:187
+msgid "80%"
+msgstr ""
+
+#: ../includes/customizer-options.php:188
+msgid "81%"
+msgstr ""
+
+#: ../includes/customizer-options.php:189
+msgid "82%"
+msgstr ""
+
+#: ../includes/customizer-options.php:190
+msgid "83%"
+msgstr ""
+
+#: ../includes/customizer-options.php:191
+msgid "84%"
+msgstr ""
+
+#: ../includes/customizer-options.php:192
+msgid "85%"
+msgstr ""
+
+#: ../includes/customizer-options.php:193
+msgid "86%"
+msgstr ""
+
+#: ../includes/customizer-options.php:194
+msgid "87%"
+msgstr ""
+
+#: ../includes/customizer-options.php:195
+msgid "88%"
+msgstr ""
+
+#: ../includes/customizer-options.php:196
+msgid "89%"
+msgstr ""
+
+#: ../includes/customizer-options.php:197
+msgid "90%"
+msgstr ""
+
+#: ../includes/customizer-options.php:198
+msgid "91%"
+msgstr ""
+
+#: ../includes/customizer-options.php:199
+msgid "92%"
+msgstr ""
+
+#: ../includes/customizer-options.php:200
+msgid "93%"
+msgstr ""
+
+#: ../includes/customizer-options.php:201
+msgid "94%"
+msgstr ""
+
+#: ../includes/customizer-options.php:202
+msgid "95%"
+msgstr ""
+
+#: ../includes/customizer-options.php:203
+msgid "96%"
+msgstr ""
+
+#: ../includes/customizer-options.php:204
+msgid "97%"
+msgstr ""
+
+#: ../includes/customizer-options.php:205
+msgid "98%"
+msgstr ""
+
+#: ../includes/customizer-options.php:206
+msgid "99%"
+msgstr ""
+
+#: ../includes/customizer-options.php:207
+msgid "100%"
+msgstr ""
+
+#: ../includes/customizer-options.php:218 ../includes/customizer-options.php:1374
+msgid "General Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:226 ../includes/elementor-core.php:1573
+#: ../includes/elementor-core.php:1646 ../includes/elementor-core.php:1719
+msgid "Global Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:227
+msgid "This color will be globally applied to most of elements parts and special texts"
+msgstr ""
+
+#: ../includes/customizer-options.php:233 ../includes/elementor-core.php:1574
+#: ../includes/elementor-core.php:1647 ../includes/elementor-core.php:1720
+msgid "Secondary Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:234
+msgid ""
+"This color will be used on some elements. Sometimes with Global Color. This should "
+"match with Global Color to look good."
+msgstr ""
+
+#: ../includes/customizer-options.php:240 ../includes/elementor-core.php:1575
+#: ../includes/elementor-core.php:1648 ../includes/elementor-core.php:1721
+msgid "Gradient Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:242
+msgid "Starting Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:243
+msgid "Ending Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:253 ../setup/envato_setup.php:438
+msgid "Logo"
+msgstr ""
+
+#: ../includes/customizer-options.php:254
+msgid "Main logo"
+msgstr ""
+
+#: ../includes/customizer-options.php:268
+msgid "Logo Max Height"
+msgstr ""
+
+#: ../includes/customizer-options.php:279
+msgid "Sticky Logo"
+msgstr ""
+
+#: ../includes/customizer-options.php:280
+msgid "Sticky logo"
+msgstr ""
+
+#: ../includes/customizer-options.php:291
+msgid "Sticky Logo Max Height"
+msgstr ""
+
+#: ../includes/customizer-options.php:307
+msgid "Responsive Logo"
+msgstr ""
+
+#: ../includes/customizer-options.php:308
+msgid "This logo appear in small devices like mobile/tablet etc"
+msgstr ""
+
+#: ../includes/customizer-options.php:314
+msgid "Responsive Logo Max Height"
+msgstr ""
+
+#: ../includes/customizer-options.php:325
+msgid "Link Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:327
+msgid "Normal Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:328
+msgid "Mouse-Over (Hover) Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:338
+msgid "Show Preloader?"
+msgstr ""
+
+#: ../includes/customizer-options.php:339
+msgid "Show or hide preloader"
+msgstr ""
+
+#: ../includes/customizer-options.php:342 ../includes/customizer-options.php:404
+#: ../includes/customizer-options.php:415 ../includes/customizer-options.php:426
+#: ../includes/customizer-options.php:899 ../includes/customizer-options.php:1457
+#: ../includes/customizer-options.php:1502 ../includes/customizer-options.php:1704
+#: ../includes/customizer-options.php:1747 ../includes/customizer-options.php:1946
+#: ../includes/customizer-options.php:2192 ../includes/customizer-options.php:2243
+#: ../includes/customizer-options.php:2345 ../includes/customizer-options.php:2428
+#: ../includes/customizer-options.php:2462 ../includes/customizer-options.php:2605
+#: ../includes/customizer-options.php:2816 ../includes/customizer-options.php:2826
+#: ../includes/customizer-options.php:3293 ../includes/customizer-options.php:3443
+#: ../includes/customizer-options.php:3454 ../includes/elementor-core.php:1510
+#: ../includes/elementor-core.php:1527 ../includes/elementor/blog.php:102
+#: ../includes/elementor/blog.php:234 ../includes/elementor/blog.php:376
+#: ../includes/elementor/blog.php:393 ../includes/elementor/blog.php:410
+#: ../includes/elementor/blog.php:427 ../includes/elementor/blog.php:444
+#: ../includes/elementor/client.php:102 ../includes/elementor/client.php:234
+#: ../includes/elementor/client.php:375 ../includes/elementor/client.php:392
+#: ../includes/elementor/client.php:409 ../includes/elementor/client.php:426
+#: ../includes/elementor/client.php:443 ../includes/elementor/heading-subheading.php:96
+#: ../includes/elementor/multiple-icon-heading.php:102
+#: ../includes/elementor/multiple-icon-heading.php:592
+#: ../includes/elementor/multiple-icon-heading.php:609
+#: ../includes/elementor/multiple-icon-heading.php:626
+#: ../includes/elementor/multiple-icon-heading.php:643
+#: ../includes/elementor/multiple-icon-heading.php:660
+#: ../includes/elementor/portfolio.php:102 ../includes/elementor/portfolio.php:235
+#: ../includes/elementor/portfolio.php:376 ../includes/elementor/portfolio.php:393
+#: ../includes/elementor/portfolio.php:410 ../includes/elementor/portfolio.php:427
+#: ../includes/elementor/portfolio.php:444 ../includes/elementor/pricing-table.php:99
+#: ../includes/elementor/service.php:102 ../includes/elementor/service.php:234
+#: ../includes/elementor/service.php:375 ../includes/elementor/service.php:392
+#: ../includes/elementor/service.php:409 ../includes/elementor/service.php:426
+#: ../includes/elementor/service.php:443 ../includes/elementor/static-box.php:102
+#: ../includes/elementor/static-box.php:339 ../includes/elementor/static-box.php:356
+#: ../includes/elementor/static-box.php:373 ../includes/elementor/static-box.php:390
+#: ../includes/elementor/static-box.php:407 ../includes/elementor/team.php:102
+#: ../includes/elementor/team.php:234 ../includes/elementor/team.php:375
+#: ../includes/elementor/team.php:392 ../includes/elementor/team.php:409
+#: ../includes/elementor/team.php:426 ../includes/elementor/team.php:443
+#: ../includes/elementor/testimonial.php:102 ../includes/elementor/testimonial.php:234
+#: ../includes/elementor/testimonial.php:375 ../includes/elementor/testimonial.php:392
+#: ../includes/elementor/testimonial.php:409 ../includes/elementor/testimonial.php:426
+#: ../includes/elementor/testimonial.php:443 ../includes/elementor/timeline.php:102
+msgid "Yes"
+msgstr ""
+
+#: ../includes/customizer-options.php:343 ../includes/customizer-options.php:405
+#: ../includes/customizer-options.php:416 ../includes/customizer-options.php:427
+#: ../includes/customizer-options.php:900 ../includes/customizer-options.php:1458
+#: ../includes/customizer-options.php:1503 ../includes/customizer-options.php:1705
+#: ../includes/customizer-options.php:1748 ../includes/customizer-options.php:1947
+#: ../includes/customizer-options.php:2193 ../includes/customizer-options.php:2244
+#: ../includes/customizer-options.php:2346 ../includes/customizer-options.php:2429
+#: ../includes/customizer-options.php:2463 ../includes/customizer-options.php:2606
+#: ../includes/customizer-options.php:2817 ../includes/customizer-options.php:2827
+#: ../includes/customizer-options.php:3294 ../includes/customizer-options.php:3444
+#: ../includes/customizer-options.php:3455 ../includes/elementor-core.php:1511
+#: ../includes/elementor-core.php:1528 ../includes/elementor/blog.php:103
+#: ../includes/elementor/blog.php:235 ../includes/elementor/blog.php:377
+#: ../includes/elementor/blog.php:394 ../includes/elementor/blog.php:411
+#: ../includes/elementor/blog.php:428 ../includes/elementor/blog.php:445
+#: ../includes/elementor/client.php:103 ../includes/elementor/client.php:235
+#: ../includes/elementor/client.php:376 ../includes/elementor/client.php:393
+#: ../includes/elementor/client.php:410 ../includes/elementor/client.php:427
+#: ../includes/elementor/client.php:444 ../includes/elementor/heading-subheading.php:97
+#: ../includes/elementor/multiple-icon-heading.php:103
+#: ../includes/elementor/multiple-icon-heading.php:593
+#: ../includes/elementor/multiple-icon-heading.php:610
+#: ../includes/elementor/multiple-icon-heading.php:627
+#: ../includes/elementor/multiple-icon-heading.php:644
+#: ../includes/elementor/multiple-icon-heading.php:661
+#: ../includes/elementor/portfolio.php:103 ../includes/elementor/portfolio.php:236
+#: ../includes/elementor/portfolio.php:377 ../includes/elementor/portfolio.php:394
+#: ../includes/elementor/portfolio.php:411 ../includes/elementor/portfolio.php:428
+#: ../includes/elementor/portfolio.php:445 ../includes/elementor/pricing-table.php:100
+#: ../includes/elementor/service.php:103 ../includes/elementor/service.php:235
+#: ../includes/elementor/service.php:376 ../includes/elementor/service.php:393
+#: ../includes/elementor/service.php:410 ../includes/elementor/service.php:427
+#: ../includes/elementor/service.php:444 ../includes/elementor/static-box.php:103
+#: ../includes/elementor/static-box.php:340 ../includes/elementor/static-box.php:357
+#: ../includes/elementor/static-box.php:374 ../includes/elementor/static-box.php:391
+#: ../includes/elementor/static-box.php:408 ../includes/elementor/team.php:103
+#: ../includes/elementor/team.php:235 ../includes/elementor/team.php:376
+#: ../includes/elementor/team.php:393 ../includes/elementor/team.php:410
+#: ../includes/elementor/team.php:427 ../includes/elementor/team.php:444
+#: ../includes/elementor/testimonial.php:103 ../includes/elementor/testimonial.php:235
+#: ../includes/elementor/testimonial.php:376 ../includes/elementor/testimonial.php:393
+#: ../includes/elementor/testimonial.php:410 ../includes/elementor/testimonial.php:427
+#: ../includes/elementor/testimonial.php:444 ../includes/elementor/timeline.php:103
+msgid "No"
+msgstr ""
+
+#: ../includes/customizer-options.php:349
+msgid "Select preloader image"
+msgstr ""
+
+#: ../includes/customizer-options.php:371
+msgid "Responsive Breakpoint"
+msgstr ""
+
+#: ../includes/customizer-options.php:372
+msgid ""
+"Select screen size to make the menu burger menu (responsive menu) below the selected "
+"screen size and also other settings too. Preferred Sizes: 1200, 1024, 992 and 768"
+msgstr ""
+
+#: ../includes/customizer-options.php:395
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:395
+msgid "Special advanced options"
+msgstr ""
+
+#: ../includes/customizer-options.php:400
+msgid "Load Minified CSS and JS Files?"
+msgstr ""
+
+#: ../includes/customizer-options.php:401
+msgid ""
+"Load minified files for CSS and JS code files. Select YES to reduce page load time."
+msgstr ""
+
+#: ../includes/customizer-options.php:411
+msgid "Load Static CSS file for Dynamic Code?"
+msgstr ""
+
+#: ../includes/customizer-options.php:412
+msgid ""
+"Keep this YES to make your site load faster. Select NO if you are modifying any file "
+"via child theme or any other way."
+msgstr ""
+
+#: ../includes/customizer-options.php:422
+msgid "Load merged file?"
+msgstr ""
+
+#: ../includes/customizer-options.php:423
+msgid ""
+"Keep this YES to load merged file so only one CSS file will load instead of multiple "
+"files. This will effect theme's CSS files only and not other plugin related files. "
+"This will reduce load time."
+msgstr ""
+
+#: ../includes/customizer-options.php:433
+msgid "White Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:434
+msgid "This is default white color for text."
+msgstr ""
+
+#: ../includes/customizer-options.php:440
+msgid "Blackish Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:441
+msgid "This is default blackish color."
+msgstr ""
+
+#: ../includes/customizer-options.php:447
+msgid "Light Background Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:448
+msgid "This is default grey background color."
+msgstr ""
+
+#: ../includes/customizer-options.php:454
+msgid "Blackish Background Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:455
+msgid "This is default blackish background color."
+msgstr ""
+
+#: ../includes/customizer-options.php:463
+msgid "Typography Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:471
+msgid "Global Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:492
+msgid "H1 Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:493
+msgid "This is tooltip"
+msgstr ""
+
+#: ../includes/customizer-options.php:513
+msgid "H2 Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:533
+msgid "H3 Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:553
+msgid "H4 Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:573
+msgid "H5 Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:593
+msgid "H6 Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:614
+msgid "Special Heading Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:614
+msgid "Heading typography options"
+msgstr ""
+
+#: ../includes/customizer-options.php:619
+msgid "Heading Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:639
+msgid "Sub-heading Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:659
+msgid "Content Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:679
+msgid "Widget Heading Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:699
+msgid "Button Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:718
+msgid "CSS only Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:718
+msgid ""
+"This will not apply to any font style but this font will be loaded so we can use "
+"anywhere."
+msgstr ""
+
+#: ../includes/customizer-options.php:723
+msgid "First Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:737
+msgid "Second Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:751
+msgid "Third Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:767
+msgid "Pre-Header Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:775
+msgid "Show or hide Pre-header"
+msgstr ""
+
+#: ../includes/customizer-options.php:778
+msgid "Show"
+msgstr ""
+
+#: ../includes/customizer-options.php:779
+msgid "Hide"
+msgstr ""
+
+#: ../includes/customizer-options.php:785
+msgid "Select pre-header text color"
+msgstr ""
+
+#: ../includes/customizer-options.php:799
+msgid "Select pre-header background color"
+msgstr ""
+
+#: ../includes/customizer-options.php:811
+msgid "Select pre-header background custom color"
+msgstr ""
+
+#: ../includes/customizer-options.php:812
+msgid "Select custom color for pre-header background"
+msgstr ""
+
+#: ../includes/customizer-options.php:830
+msgid "Hide in screen size"
+msgstr ""
+
+#: ../includes/customizer-options.php:831
+msgid ""
+"Select screen size to hide this pre-header below the selected screen size. Preferred "
+"Sizes: 1200, 1024, 992 and 768"
+msgstr ""
+
+#: ../includes/customizer-options.php:847
+msgid "Preheader content"
+msgstr ""
+
+#: ../includes/customizer-options.php:847
+msgid "Manage preheader content from here"
+msgstr ""
+
+#: ../includes/customizer-options.php:857
+msgid "Pre-header Left Content"
+msgstr ""
+
+#: ../includes/customizer-options.php:876
+msgid "Pre-header Right Content"
+msgstr ""
+
+#: ../includes/customizer-options.php:895
+msgid "Show Search Icon in Pre-header Right Area?"
+msgstr ""
+
+#: ../includes/customizer-options.php:896
+msgid "Select YES to show search icon in pre-header right side."
+msgstr ""
+
+#: ../includes/customizer-options.php:913
+msgid "Header Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:921
+msgid "Header Style"
+msgstr ""
+
+#: ../includes/customizer-options.php:930
+msgid "Header 1st Box Contents"
+msgstr ""
+
+#: ../includes/customizer-options.php:930
+msgid "Add or modify content for 1st box in header area."
+msgstr ""
+
+#: ../includes/customizer-options.php:944
+msgid "1st box - Icon"
+msgstr ""
+
+#: ../includes/customizer-options.php:945 ../includes/customizer-options.php:1955
+msgid "Select icon for 1st box"
+msgstr ""
+
+#: ../includes/customizer-options.php:960
+msgid "1st Box - Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:983
+msgid "1st Box - Content"
+msgstr ""
+
+#: ../includes/customizer-options.php:998
+msgid "1st Box - Link"
+msgstr ""
+
+#: ../includes/customizer-options.php:1014
+msgid "Header 2nd Box Contents"
+msgstr ""
+
+#: ../includes/customizer-options.php:1014
+msgid "Add or modify content for 2nd box in header area."
+msgstr ""
+
+#: ../includes/customizer-options.php:1028
+msgid "2nd box - Icon"
+msgstr ""
+
+#: ../includes/customizer-options.php:1029 ../includes/customizer-options.php:1998
+msgid "Select icon for 2nd box"
+msgstr ""
+
+#: ../includes/customizer-options.php:1044
+msgid "2nd Box - Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:1067
+msgid "2nd Box - Content"
+msgstr ""
+
+#: ../includes/customizer-options.php:1082
+msgid "2nd Box - Link"
+msgstr ""
+
+#: ../includes/customizer-options.php:1098
+msgid "Header 3rd Box Contents"
+msgstr ""
+
+#: ../includes/customizer-options.php:1098
+msgid "Add or modify content for 3rd box in header area."
+msgstr ""
+
+#: ../includes/customizer-options.php:1112
+msgid "3rd box - Icon"
+msgstr ""
+
+#: ../includes/customizer-options.php:1113 ../includes/customizer-options.php:2041
+msgid "Select icon for 3rd box"
+msgstr ""
+
+#: ../includes/customizer-options.php:1128
+msgid "3rd Box - Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:1151
+msgid "3rd Box - Content"
+msgstr ""
+
+#: ../includes/customizer-options.php:1166
+msgid "3rd Box - Link"
+msgstr ""
+
+#: ../includes/customizer-options.php:1181
+msgid "Header Box Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:1181
+msgid "Select or change header box typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:1195
+msgid "Header Typography - Box Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:1223
+msgid "Header Typography - Box Content"
+msgstr ""
+
+#: ../includes/customizer-options.php:1252
+msgid "Header Button"
+msgstr ""
+
+#: ../includes/customizer-options.php:1252
+msgid "Set header button title and link"
+msgstr ""
+
+#: ../includes/customizer-options.php:1276
+msgid "Header Button Text (1st line)"
+msgstr ""
+
+#: ../includes/customizer-options.php:1277
+msgid "Have any Question ?"
+msgstr ""
+
+#: ../includes/customizer-options.php:1314
+msgid "Header Button Text (2nd line)"
+msgstr ""
+
+#: ../includes/customizer-options.php:1315
+msgid "+0 123 888 999"
+msgstr ""
+
+#: ../includes/customizer-options.php:1344
+msgid "Header Button Link (URL)"
+msgstr ""
+
+#: ../includes/customizer-options.php:1374
+msgid "Common options that apply to all header styles"
+msgstr ""
+
+#: ../includes/customizer-options.php:1379
+msgid "Header Height (in pixel)"
+msgstr ""
+
+#: ../includes/customizer-options.php:1380
+msgid "Select header height"
+msgstr ""
+
+#: ../includes/customizer-options.php:1391 ../includes/customizer-options.php:1584
+msgid "Select header background color"
+msgstr ""
+
+#: ../includes/customizer-options.php:1398
+msgid "Header Background Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:1399
+msgid "Select custom color for header background"
+msgstr ""
+
+#: ../includes/customizer-options.php:1412
+msgid "Select menu area background color"
+msgstr ""
+
+#: ../includes/customizer-options.php:1433
+msgid "Menu Area Background Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:1434
+msgid "Select custom color for Menu area background"
+msgstr ""
+
+#: ../includes/customizer-options.php:1448
+msgid "Search in Header"
+msgstr ""
+
+#: ../includes/customizer-options.php:1448
+msgid "Options for search in header area"
+msgstr ""
+
+#: ../includes/customizer-options.php:1453
+msgid "Show Search Icon in Header Area?"
+msgstr ""
+
+#: ../includes/customizer-options.php:1454
+msgid "Select YES to show search icon in header area."
+msgstr ""
+
+#: ../includes/customizer-options.php:1464 ../includes/customizer-options.php:1465
+msgid "Search input placeholder text"
+msgstr ""
+
+#: ../includes/customizer-options.php:1466
+msgid "Write Search Keyword & Press Enter"
+msgstr ""
+
+#: ../includes/customizer-options.php:1478 ../includes/customizer-options.php:1479
+msgid "Search button text"
+msgstr ""
+
+#: ../includes/customizer-options.php:1480
+msgid "Search"
+msgstr ""
+
+#: ../includes/customizer-options.php:1493
+msgid "Sticky Header Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:1493
+msgid "Options for sticky header area"
+msgstr ""
+
+#: ../includes/customizer-options.php:1498
+msgid "Sticky Header on Scroll?"
+msgstr ""
+
+#: ../includes/customizer-options.php:1499
+msgid "Select YES to make header sticky on scroll."
+msgstr ""
+
+#: ../includes/customizer-options.php:1509
+msgid "Sticky Area Height (in pixel)"
+msgstr ""
+
+#: ../includes/customizer-options.php:1510
+msgid "Select Area height for sticky header"
+msgstr ""
+
+#: ../includes/customizer-options.php:1545
+msgid "Sticky Area Background Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:1559
+msgid "Sticky Header Background Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:1560
+msgid "Select custom color for sticky header background"
+msgstr ""
+
+#: ../includes/customizer-options.php:1579
+msgid "Responsive Header Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:1579
+msgid "Options for responsive (mobile or tablet mode) header area"
+msgstr ""
+
+#: ../includes/customizer-options.php:1593
+msgid "Menu Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:1602
+msgid "Main Menu Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:1602
+msgid "Set Main Menu font settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:1607
+msgid "Main Menu Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:1627
+msgid "Main Menu Text Color for Sticky Header"
+msgstr ""
+
+#: ../includes/customizer-options.php:1628
+msgid "This color will be applied to main menu text when header is sticky"
+msgstr ""
+
+#: ../includes/customizer-options.php:1634
+msgid "Main Menu Active Link Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:1635
+msgid "This color will be applied to main menu when the menu link is active"
+msgstr ""
+
+#: ../includes/customizer-options.php:1643
+msgid "Dropdown Menu Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:1643
+msgid "Set Dropdown font settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:1648
+msgid "Dropdown Menu Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:1668
+msgid "Dropdown Menu Active Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:1675
+msgid "Dropdown Menu Background"
+msgstr ""
+
+#: ../includes/customizer-options.php:1676
+msgid "Background settings for Dropdown Menu"
+msgstr ""
+
+#: ../includes/customizer-options.php:1692 ../includes/meta-boxes.php:241
+msgid "Titlebar Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:1700
+msgid "Show Titlebar?"
+msgstr ""
+
+#: ../includes/customizer-options.php:1701
+msgid "Show or hide Titlebar"
+msgstr ""
+
+#: ../includes/customizer-options.php:1711
+msgid "Titlebar Height"
+msgstr ""
+
+#: ../includes/customizer-options.php:1727
+msgid "Titlebar Style"
+msgstr ""
+
+#: ../includes/customizer-options.php:1728
+msgid "Select style for Titlebar"
+msgstr ""
+
+#: ../includes/customizer-options.php:1731
+msgid "All Left Aligned"
+msgstr ""
+
+#: ../includes/customizer-options.php:1732
+msgid "All Center Aligned"
+msgstr ""
+
+#: ../includes/customizer-options.php:1743
+msgid "Hide Breadcrumb?"
+msgstr ""
+
+#: ../includes/customizer-options.php:1744
+msgid "Show or hide breadcrumb in Titlebar"
+msgstr ""
+
+#: ../includes/customizer-options.php:1759
+msgid "Featured Image as Titlebar Background"
+msgstr ""
+
+#: ../includes/customizer-options.php:1760
+msgid ""
+"Select which section (CPT) will show featured image as background image in Titlebar. "
+"NOTE: This will work for Single view only."
+msgstr ""
+
+#: ../includes/customizer-options.php:1763 ../includes/customizer-options.php:1764
+#: ../includes/customizer-options.php:1765 ../includes/customizer-options.php:1766
+#, php-format
+msgid "For %1$s"
+msgstr ""
+
+#: ../includes/customizer-options.php:1777
+msgid "Select Titlebar background color"
+msgstr ""
+
+#: ../includes/customizer-options.php:1789 ../includes/customizer-options.php:1913
+#: ../includes/customizer-options.php:3324
+msgid "Background"
+msgstr ""
+
+#: ../includes/customizer-options.php:1790 ../includes/customizer-options.php:1914
+#: ../includes/customizer-options.php:3325
+msgid "Background Settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:1808
+msgid "Titlebar Heading Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:1833
+msgid "Titlebar Sub-heading Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:1858
+msgid "Titlebar Breadcrumb Typography"
+msgstr ""
+
+#: ../includes/customizer-options.php:1892
+msgid "Footer Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:1901
+msgid "Footer Background Settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:1901
+msgid "Manage footer background settings from here"
+msgstr ""
+
+#: ../includes/customizer-options.php:1906
+msgid "Select Footer background color"
+msgstr ""
+
+#: ../includes/customizer-options.php:1929
+msgid "Select Footer Text Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:1938
+msgid "Footer Boxes Area"
+msgstr ""
+
+#: ../includes/customizer-options.php:1938
+msgid "Manage footer boxes from here"
+msgstr ""
+
+#: ../includes/customizer-options.php:1943
+msgid "Show footer boxes?"
+msgstr ""
+
+#: ../includes/customizer-options.php:1954
+msgid "1st Footer box - Icon"
+msgstr ""
+
+#: ../includes/customizer-options.php:1966
+msgid "1st Footer Box - Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:1985
+msgid "1st Footer Box - Content"
+msgstr ""
+
+#: ../includes/customizer-options.php:1997
+msgid "2nd Footer box - Icon"
+msgstr ""
+
+#: ../includes/customizer-options.php:2009
+msgid "2nd Footer Box - Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2028
+msgid "2nd Footer Box - Content"
+msgstr ""
+
+#: ../includes/customizer-options.php:2040
+msgid "3rd Footer box - Icon"
+msgstr ""
+
+#: ../includes/customizer-options.php:2052
+msgid "3rd Footer Box - Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2071
+msgid "3rd Footer Box - Content"
+msgstr ""
+
+#: ../includes/customizer-options.php:2084
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../includes/customizer-options.php:2084
+msgid "Manage widget area settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:2089
+msgid "Footer Widget Column Type"
+msgstr ""
+
+#: ../includes/customizer-options.php:2090
+msgid ""
+"This will show widgets. You can manage it from \"Admin > Appearance > Widgets\" "
+"section."
+msgstr ""
+
+#: ../includes/customizer-options.php:2107
+msgid "Footer Widget Width - 1st Column"
+msgstr ""
+
+#: ../includes/customizer-options.php:2108
+msgid "Set custom width of the 1st column in footer widget area"
+msgstr ""
+
+#: ../includes/customizer-options.php:2122
+msgid "Footer Widget Width - 2nd Column"
+msgstr ""
+
+#: ../includes/customizer-options.php:2123
+msgid "Set custom width of the 2nd column in footer widget area"
+msgstr ""
+
+#: ../includes/customizer-options.php:2137
+msgid "Footer Widget Width - 3rd Column"
+msgstr ""
+
+#: ../includes/customizer-options.php:2138
+msgid "Set custom width of the 3rd column in footer widget area"
+msgstr ""
+
+#: ../includes/customizer-options.php:2152
+msgid "Footer Widget Width - 4th Column"
+msgstr ""
+
+#: ../includes/customizer-options.php:2153
+msgid "Set custom width of the 4th column in footer widget area"
+msgstr ""
+
+#: ../includes/customizer-options.php:2167
+msgid "Select Footer Widget Area background color"
+msgstr ""
+
+#: ../includes/customizer-options.php:2174
+msgid "Footer Widget Area Background"
+msgstr ""
+
+#: ../includes/customizer-options.php:2175
+msgid "Background Settings for footer widget area"
+msgstr ""
+
+#: ../includes/customizer-options.php:2189
+msgid "Set Custom Text Color for Widget Area?"
+msgstr ""
+
+#: ../includes/customizer-options.php:2199
+msgid "Footer Widget Area Text Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:2213
+msgid "Footer Copyright Text Area"
+msgstr ""
+
+#: ../includes/customizer-options.php:2213
+msgid "Manage bottom footer area from here"
+msgstr ""
+
+#: ../includes/customizer-options.php:2218
+msgid "Select Footer Copyright Area background color"
+msgstr ""
+
+#: ../includes/customizer-options.php:2225
+msgid "Footer Copyright Area Background"
+msgstr ""
+
+#: ../includes/customizer-options.php:2226
+msgid "Background Settings for footer copyright area"
+msgstr ""
+
+#: ../includes/customizer-options.php:2240
+msgid "Set Custom Text Color for Copyright Area?"
+msgstr ""
+
+#: ../includes/customizer-options.php:2250
+msgid "Footer Copyright Area Text Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:2264
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../includes/customizer-options.php:2265
+#, php-format
+msgid "Copyright &copy; %1$s %2$s, All Rights Reserved."
+msgstr ""
+
+#: ../includes/customizer-options.php:2279
+msgid "Footer Logo"
+msgstr ""
+
+#: ../includes/customizer-options.php:2280
+msgid "This will appear after Copyright text"
+msgstr ""
+
+#: ../includes/customizer-options.php:2285
+msgid "Footer Right Area"
+msgstr ""
+
+#: ../includes/customizer-options.php:2286
+msgid "What you like to show at right side or copyright text"
+msgstr ""
+
+#: ../includes/customizer-options.php:2289
+msgid "Show Social Links"
+msgstr ""
+
+#: ../includes/customizer-options.php:2290
+msgid "Show Footer Menu"
+msgstr ""
+
+#: ../includes/customizer-options.php:2298
+msgid "Social Links Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:2299
+msgid "You can use [dsvy-social-links] shortcode for social list with icon."
+msgstr ""
+
+#: ../includes/customizer-options.php:2308
+msgid "Blog Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:2316
+msgid "Blog Settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:2316
+msgid "Settings for Blogroll, Category, Tag, Archives etc section."
+msgstr ""
+
+#: ../includes/customizer-options.php:2321
+msgid "Blogroll view"
+msgstr ""
+
+#: ../includes/customizer-options.php:2328
+msgid "Blogroll column"
+msgstr ""
+
+#: ../includes/customizer-options.php:2342
+msgid "Show Related Post?"
+msgstr ""
+
+#: ../includes/customizer-options.php:2352
+msgid "Related Post Section Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2353 ../includes/customizer-options.php:2613
+#: ../includes/customizer-options.php:2834
+msgid "Related Area Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2354
+msgid "Related Post"
+msgstr ""
+
+#: ../includes/customizer-options.php:2366
+msgid "How many post you like to show"
+msgstr ""
+
+#: ../includes/customizer-options.php:2384
+msgid "Related Post Column"
+msgstr ""
+
+#: ../includes/customizer-options.php:2398
+msgid "Related Post View"
+msgstr ""
+
+#: ../includes/customizer-options.php:2412
+msgid "Social share for Blog"
+msgstr ""
+
+#: ../includes/customizer-options.php:2413
+msgid "Select which social share buttons will appear on blog post."
+msgstr ""
+
+#: ../includes/customizer-options.php:2420
+msgid "Blog Classic Settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:2420
+msgid "Settings for Blog Classic view."
+msgstr ""
+
+#: ../includes/customizer-options.php:2425
+msgid "Limit Content Words for Blog Classic view?"
+msgstr ""
+
+#: ../includes/customizer-options.php:2435
+msgid "Set Word Limit for Blog Classic view"
+msgstr ""
+
+#: ../includes/customizer-options.php:2436
+msgid ""
+"This will add limited words before \"Read More\" link. This is useful if you didn't "
+"added Read More link in posts."
+msgstr ""
+
+#: ../includes/customizer-options.php:2454
+msgid "Blog Style Elements (boxes) Settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:2454
+msgid "Settings for Blog Style Elements."
+msgstr ""
+
+#: ../includes/customizer-options.php:2459
+msgid "Limit Content Words for Blog Element view?"
+msgstr ""
+
+#: ../includes/customizer-options.php:2469
+msgid "Limit Words for Blog Element view"
+msgstr ""
+
+#: ../includes/customizer-options.php:2470
+msgid "This will add limited words before \"Read More\" link."
+msgstr ""
+
+#: ../includes/customizer-options.php:2488 ../includes/customizer-options.php:3243
+msgid "Sidebar Settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:2488
+msgid "Select sidebar position Page and Blog section."
+msgstr ""
+
+#: ../includes/customizer-options.php:2504
+msgid "Blog Category/Tag Sidebar"
+msgstr ""
+
+#: ../includes/customizer-options.php:2517 ../includes/customizer-options.php:2793
+#: ../includes/customizer-options.php:3007 ../includes/customizer-options.php:3148
+#, php-format
+msgid "%1$s options"
+msgstr ""
+
+#: ../includes/customizer-options.php:2525 ../includes/customizer-options.php:2801
+#: ../includes/customizer-options.php:3015
+#, php-format
+msgid "Single %1$s Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:2525
+#, php-format
+msgid "Options for Single %1$s Section"
+msgstr ""
+
+#: ../includes/customizer-options.php:2530 ../includes/customizer-options.php:2806
+#: ../includes/customizer-options.php:3020
+#, php-format
+msgid "%1$s Single View Style"
+msgstr ""
+
+#: ../includes/customizer-options.php:2537
+#, php-format
+msgid "Single %1$s Details Box Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:2537
+msgid "Details Box Settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:2542
+#, php-format
+msgid "Single %1$s Details Box Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2543
+msgid "Details Box Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2544
+msgid "Project info"
+msgstr ""
+
+#: ../includes/customizer-options.php:2548
+#, php-format
+msgid "Single %1$s Details Box"
+msgstr ""
+
+#: ../includes/customizer-options.php:2551
+msgid "Line"
+msgstr ""
+
+#: ../includes/customizer-options.php:2554
+msgid "Add New Line"
+msgstr ""
+
+#: ../includes/customizer-options.php:2559
+msgid "Line Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2560
+msgid "This will be the label for the line"
+msgstr ""
+
+#: ../includes/customizer-options.php:2565
+msgid "Line Type"
+msgstr ""
+
+#: ../includes/customizer-options.php:2566
+msgid "This will be type for the line"
+msgstr ""
+
+#: ../includes/customizer-options.php:2569
+msgid "Normal Text"
+msgstr ""
+
+#: ../includes/customizer-options.php:2570
+msgid "Category List (without link)"
+msgstr ""
+
+#: ../includes/customizer-options.php:2571
+msgid "Category List (with link)"
+msgstr ""
+
+#: ../includes/customizer-options.php:2577 ../includes/elementor/blog.php:266
+#: ../includes/elementor/client.php:266 ../includes/elementor/portfolio.php:267
+#: ../includes/elementor/service.php:266 ../includes/elementor/team.php:266
+#: ../includes/elementor/testimonial.php:266
+msgid "Date"
+msgstr ""
+
+#: ../includes/customizer-options.php:2585
+msgid "Category"
+msgstr ""
+
+#: ../includes/customizer-options.php:2589
+msgid "Address"
+msgstr ""
+
+#: ../includes/customizer-options.php:2597
+#, php-format
+msgid "Related %1$s Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:2597
+#, php-format
+msgid "Options for Related %1$s"
+msgstr ""
+
+#: ../includes/customizer-options.php:2602
+#, php-format
+msgid "Show Related %1$s?"
+msgstr ""
+
+#: ../includes/customizer-options.php:2612 ../includes/customizer-options.php:2833
+#, php-format
+msgid "Related %1$s Section Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2614 ../includes/customizer-options.php:2835
+#, php-format
+msgid "Related %1$s"
+msgstr ""
+
+#: ../includes/customizer-options.php:2626 ../includes/customizer-options.php:2847
+#, php-format
+msgid "How many %1$s you like to show"
+msgstr ""
+
+#: ../includes/customizer-options.php:2644 ../includes/customizer-options.php:2865
+#, php-format
+msgid "Related %1$s Column"
+msgstr ""
+
+#: ../includes/customizer-options.php:2658 ../includes/customizer-options.php:2879
+#, php-format
+msgid "Related %1$s View"
+msgstr ""
+
+#: ../includes/customizer-options.php:2672 ../includes/customizer-options.php:2893
+#: ../includes/customizer-options.php:3027
+#, php-format
+msgid "Element View Style for %1$s"
+msgstr ""
+
+#: ../includes/customizer-options.php:2672 ../includes/customizer-options.php:2893
+#: ../includes/customizer-options.php:3027
+#, php-format
+msgid "Select view style for elements on %1$s"
+msgstr ""
+
+#: ../includes/customizer-options.php:2677 ../includes/customizer-options.php:2898
+#: ../includes/customizer-options.php:3032
+#, php-format
+msgid "Element View on %1$s"
+msgstr ""
+
+#: ../includes/customizer-options.php:2684 ../includes/customizer-options.php:2905
+#: ../includes/customizer-options.php:3039
+#, php-format
+msgid "%1$s View Column"
+msgstr ""
+
+#: ../includes/customizer-options.php:2691 ../includes/customizer-options.php:2912
+#: ../includes/customizer-options.php:3046
+#, php-format
+msgid "How many %1$s you like to show on single %2$s page"
+msgstr ""
+
+#: ../includes/customizer-options.php:2709 ../includes/customizer-options.php:2923
+#: ../includes/customizer-options.php:3064
+msgid "Sidebar Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:2709 ../includes/customizer-options.php:2801
+#: ../includes/customizer-options.php:2923 ../includes/customizer-options.php:3015
+#: ../includes/customizer-options.php:3064
+#, php-format
+msgid "Sidebar options for %1$s Section"
+msgstr ""
+
+#: ../includes/customizer-options.php:2714 ../includes/customizer-options.php:2725
+#: ../includes/customizer-options.php:2928 ../includes/customizer-options.php:2939
+#: ../includes/customizer-options.php:3069 ../includes/customizer-options.php:3080
+#, php-format
+msgid "%1$s Sidebar"
+msgstr ""
+
+#: ../includes/customizer-options.php:2737 ../includes/customizer-options.php:2951
+#: ../includes/customizer-options.php:3092 ../includes/customizer-options.php:3157
+msgid "Advanced Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:2737 ../includes/customizer-options.php:2951
+#: ../includes/customizer-options.php:3092 ../includes/customizer-options.php:3157
+#, php-format
+msgid "Advanced Options for %1$s Section"
+msgstr ""
+
+#: ../includes/customizer-options.php:2742 ../includes/customizer-options.php:2956
+#: ../includes/customizer-options.php:3097 ../includes/customizer-options.php:3162
+#, php-format
+msgid "%1$s Section Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2743 ../includes/customizer-options.php:2957
+#: ../includes/customizer-options.php:3098 ../includes/customizer-options.php:3163
+msgid "CPT Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2750 ../includes/customizer-options.php:2964
+#: ../includes/customizer-options.php:3105 ../includes/customizer-options.php:3170
+#, php-format
+msgid "%1$s Section Title (Singular)"
+msgstr ""
+
+#: ../includes/customizer-options.php:2751 ../includes/customizer-options.php:2965
+#: ../includes/customizer-options.php:3106 ../includes/customizer-options.php:3171
+msgid "CPT Singular Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2758 ../includes/customizer-options.php:2972
+#: ../includes/customizer-options.php:3113
+#, php-format
+msgid "%1$s Section URl Slug"
+msgstr ""
+
+#: ../includes/customizer-options.php:2759 ../includes/customizer-options.php:2973
+#: ../includes/customizer-options.php:3114
+msgid "CPT URL slug."
+msgstr ""
+
+#: ../includes/customizer-options.php:2759 ../includes/customizer-options.php:2785
+#: ../includes/customizer-options.php:2973 ../includes/customizer-options.php:2998
+#: ../includes/customizer-options.php:3114 ../includes/customizer-options.php:3139
+msgid "NOTE:"
+msgstr ""
+
+#: ../includes/customizer-options.php:2759 ../includes/customizer-options.php:2785
+#: ../includes/customizer-options.php:2973 ../includes/customizer-options.php:2998
+#: ../includes/customizer-options.php:3114 ../includes/customizer-options.php:3139
+#, php-format
+msgid "After changing this, please go to %1$s section and save it once."
+msgstr ""
+
+#: ../includes/customizer-options.php:2767 ../includes/customizer-options.php:2981
+#: ../includes/customizer-options.php:3122 ../includes/customizer-options.php:3178
+#, php-format
+msgid "%1$s Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2768 ../includes/customizer-options.php:2982
+#: ../includes/customizer-options.php:3123 ../includes/customizer-options.php:3179
+msgid "Taxonomy Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2769
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../includes/customizer-options.php:2775 ../includes/customizer-options.php:2989
+#: ../includes/customizer-options.php:3130 ../includes/customizer-options.php:3186
+#, php-format
+msgid "%1$s Title (Singular)"
+msgstr ""
+
+#: ../includes/customizer-options.php:2776 ../includes/customizer-options.php:2990
+#: ../includes/customizer-options.php:3131 ../includes/customizer-options.php:3187
+msgid "Taxonomy Singular Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:2783 ../includes/customizer-options.php:2997
+#: ../includes/customizer-options.php:3138
+#, php-format
+msgid "%1$s URl Slug"
+msgstr ""
+
+#: ../includes/customizer-options.php:2784
+msgid "Taxonomy URL slug"
+msgstr ""
+
+#: ../includes/customizer-options.php:2785 ../includes/customizer-options.php:2998
+#: ../includes/customizer-options.php:3139
+msgid "Taxonomy URL slug."
+msgstr ""
+
+#: ../includes/customizer-options.php:2813
+#, php-format
+msgid "Hide Featured Image on Single %1$s page? "
+msgstr ""
+
+#: ../includes/customizer-options.php:2823
+#, php-format
+msgid "Show Related %1$s"
+msgstr ""
+
+#: ../includes/customizer-options.php:2983
+msgid "Service Categories"
+msgstr ""
+
+#: ../includes/customizer-options.php:3099
+msgid "Team Members"
+msgstr ""
+
+#: ../includes/customizer-options.php:3124
+msgid "Team Groups"
+msgstr ""
+
+#: ../includes/customizer-options.php:3164
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/customizer-options.php:3180
+msgid "Testimonial Categories"
+msgstr ""
+
+#: ../includes/customizer-options.php:3196
+msgid "Search Results options"
+msgstr ""
+
+#: ../includes/customizer-options.php:3205
+msgid "Search Results Settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:3205
+msgid "Settings for Search Results page"
+msgstr ""
+
+#: ../includes/customizer-options.php:3210
+msgid "Search Results Content Text Limit"
+msgstr ""
+
+#: ../includes/customizer-options.php:3211
+msgid "Show limited text for content of the results page/post etc."
+msgstr ""
+
+#: ../includes/customizer-options.php:3229
+msgid "Title for \"No Search Results\" page"
+msgstr ""
+
+#: ../includes/customizer-options.php:3230
+msgid "Title to show when there is no search results"
+msgstr ""
+
+#: ../includes/customizer-options.php:3231
+msgid "No Results Found"
+msgstr ""
+
+#: ../includes/customizer-options.php:3236
+msgid "Text for \"No Search Results\" page"
+msgstr ""
+
+#: ../includes/customizer-options.php:3237
+msgid "Text to show when there is no search results"
+msgstr ""
+
+#: ../includes/customizer-options.php:3238
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some different "
+"keywords."
+msgstr ""
+
+#: ../includes/customizer-options.php:3243
+msgid "Select sidebar position for search results page."
+msgstr ""
+
+#: ../includes/customizer-options.php:3261
+msgid "Error 404 options"
+msgstr ""
+
+#: ../includes/customizer-options.php:3270
+msgid "Error 404 Settings"
+msgstr ""
+
+#: ../includes/customizer-options.php:3270
+msgid "Settings for error 404 page"
+msgstr ""
+
+#: ../includes/customizer-options.php:3275
+msgid "Error 404 Heading"
+msgstr ""
+
+#: ../includes/customizer-options.php:3276
+msgid "This is heading for 404 page"
+msgstr ""
+
+#: ../includes/customizer-options.php:3277
+msgid "404"
+msgstr ""
+
+#: ../includes/customizer-options.php:3282
+msgid "Error 404 Text"
+msgstr ""
+
+#: ../includes/customizer-options.php:3283
+msgid "This is text for 404 page"
+msgstr ""
+
+#: ../includes/customizer-options.php:3284
+msgid "OOPS! THE PAGE YOU WERE LOOKING FOR, COULDN'T BE FOUND."
+msgstr ""
+
+#: ../includes/customizer-options.php:3289
+msgid "Show search form on 404 page"
+msgstr ""
+
+#: ../includes/customizer-options.php:3300
+msgid "Error 404 Text Color"
+msgstr ""
+
+#: ../includes/customizer-options.php:3300
+msgid "Settings for text color for 404 error page"
+msgstr ""
+
+#: ../includes/customizer-options.php:3305
+msgid "Select 404 page text color"
+msgstr ""
+
+#: ../includes/customizer-options.php:3312
+msgid "Error 404 Background Option"
+msgstr ""
+
+#: ../includes/customizer-options.php:3312
+msgid "Settings for background color/image for 404 error page"
+msgstr ""
+
+#: ../includes/customizer-options.php:3317
+msgid "Select 404 page background color"
+msgstr ""
+
+#: ../includes/customizer-options.php:3340
+msgid "CSS/JS Code"
+msgstr ""
+
+#: ../includes/customizer-options.php:3349 ../includes/customizer-options.php:3354
+msgid "Tracking Code"
+msgstr ""
+
+#: ../includes/customizer-options.php:3349
+msgid "Code for Google Tracking or other "
+msgstr ""
+
+#: ../includes/customizer-options.php:3355
+msgid "This code will be added to HEAD element on your all pages."
+msgstr ""
+
+#: ../includes/customizer-options.php:3361 ../includes/customizer-options.php:3366
+msgid "Custom CSS Code"
+msgstr ""
+
+#: ../includes/customizer-options.php:3367
+msgid "Add your custom CSS code here."
+msgstr ""
+
+#: ../includes/customizer-options.php:3373
+msgid "Custom JS Code"
+msgstr ""
+
+#: ../includes/customizer-options.php:3374
+msgid "Add your custom JS code here."
+msgstr ""
+
+#: ../includes/customizer-options.php:3388
+msgid "WooCommerce Options"
+msgstr ""
+
+#: ../includes/customizer-options.php:3397
+msgid "WooCommerce Shop Sidebar"
+msgstr ""
+
+#: ../includes/customizer-options.php:3408
+msgid "WooCommerce Single Product Sidebar"
+msgstr ""
+
+#: ../includes/customizer-options.php:3419
+msgid "WooCommerce Shop Page Title"
+msgstr ""
+
+#: ../includes/customizer-options.php:3420
+msgid "This will appear in Titlebar on Shop page."
+msgstr ""
+
+#: ../includes/customizer-options.php:3426
+msgid "How many related products will be shown?"
+msgstr ""
+
+#: ../includes/customizer-options.php:3427
+msgid "How many related products will be shown on single product page?"
+msgstr ""
+
+#: ../includes/customizer-options.php:3430
+msgid "1 product"
+msgstr ""
+
+#: ../includes/customizer-options.php:3431
+msgid "2 products"
+msgstr ""
+
+#: ../includes/customizer-options.php:3432
+msgid "3 products"
+msgstr ""
+
+#: ../includes/customizer-options.php:3433
+msgid "4 products"
+msgstr ""
+
+#: ../includes/customizer-options.php:3439
+msgid "Show Cart Icon in Header?"
+msgstr ""
+
+#: ../includes/customizer-options.php:3440
+msgid ""
+"Show or hide cart icon in header area. The icon will appear only if WooCommerce "
+"plugin is active."
+msgstr ""
+
+#: ../includes/customizer-options.php:3450
+msgid "Show Amount with Cart Icon in Header?"
+msgstr ""
+
+#: ../includes/customizer-options.php:3451
+msgid ""
+"Show or hide cart amount with cart icon in header area. The icon will appear only if "
+"WooCommerce plugin is active."
+msgstr ""
+
+#: ../includes/elementor-core.php:47
+msgid "Lyfpro Special Elements"
+msgstr ""
+
+#: ../includes/elementor-core.php:123
+msgid "Lyfpro Special Icons"
+msgstr ""
+
+#: ../includes/elementor-core.php:1477 ../includes/elementor-core.php:1628
+#: ../includes/elementor-core.php:1701
+msgid "Lyfpro Special Options"
+msgstr ""
+
+#: ../includes/elementor-core.php:1485
+msgid "Extend Column for background image"
+msgstr ""
+
+#: ../includes/elementor-core.php:1486
+msgid "Select which column will be extended with background image."
+msgstr ""
+
+#: ../includes/elementor-core.php:1505 ../includes/elementor-core.php:1506
+msgid "Also stretch left content too?"
+msgstr ""
+
+#: ../includes/elementor-core.php:1522 ../includes/elementor-core.php:1523
+msgid "Also stretch right content too?"
+msgstr ""
+
+#: ../includes/elementor-core.php:1539
+msgid "Left Content Area Margin"
+msgstr ""
+
+#: ../includes/elementor-core.php:1540 ../includes/elementor-core.php:1552
+msgid "This is useful if you like to overlap columns on each other."
+msgstr ""
+
+#: ../includes/elementor-core.php:1551
+msgid "Right Content Area Margin"
+msgstr ""
+
+#: ../includes/elementor-core.php:1562
+msgid "Section Background Color"
+msgstr ""
+
+#: ../includes/elementor-core.php:1563
+msgid "Pre-defined Background Color for this Section (ROW)"
+msgstr ""
+
+#: ../includes/elementor-core.php:1569 ../includes/elementor-core.php:1642
+msgid "Transparent"
+msgstr ""
+
+#: ../includes/elementor-core.php:1570 ../includes/elementor-core.php:1590
+#: ../includes/elementor-core.php:1643 ../includes/elementor-core.php:1663
+#: ../includes/elementor-core.php:1716
+msgid "White"
+msgstr ""
+
+#: ../includes/elementor-core.php:1571 ../includes/elementor-core.php:1644
+#: ../includes/elementor-core.php:1717
+msgid "Light"
+msgstr ""
+
+#: ../includes/elementor-core.php:1572 ../includes/elementor-core.php:1591
+#: ../includes/elementor-core.php:1645 ../includes/elementor-core.php:1664
+#: ../includes/elementor-core.php:1718
+msgid "Blackish"
+msgstr ""
+
+#: ../includes/elementor-core.php:1583
+msgid "Section Text Color"
+msgstr ""
+
+#: ../includes/elementor-core.php:1584
+msgid "Pre-defined Text Color in this Section (ROW)"
+msgstr ""
+
+#: ../includes/elementor-core.php:1589 ../includes/elementor-core.php:1662
+msgid "Default"
+msgstr ""
+
+#: ../includes/elementor-core.php:1599 ../includes/elementor-core.php:1672
+msgid "BG Image - BG Color Order"
+msgstr ""
+
+#: ../includes/elementor-core.php:1600 ../includes/elementor-core.php:1673
+msgid "You can show BG image over BG Color or reverse too."
+msgstr ""
+
+#: ../includes/elementor-core.php:1636
+msgid "Column Background Color"
+msgstr ""
+
+#: ../includes/elementor-core.php:1637
+msgid "Pre-defined Background Color for this Column"
+msgstr ""
+
+#: ../includes/elementor-core.php:1656
+msgid "Column Text Color"
+msgstr ""
+
+#: ../includes/elementor-core.php:1657
+msgid "Pre-defined Text Color in this Column"
+msgstr ""
+
+#: ../includes/elementor-core.php:1709
+msgid "Button Color"
+msgstr ""
+
+#: ../includes/elementor-core.php:1710
+msgid "Pre-defined Color for Button"
+msgstr ""
+
+#: ../includes/elementor-core.php:1728
+msgid "Select Button Style"
+msgstr ""
+
+#: ../includes/elementor-core.php:1729
+msgid "Button style"
+msgstr ""
+
+#: ../includes/elementor-core.php:1735
+msgid "Flat"
+msgstr ""
+
+#: ../includes/elementor-core.php:1736
+msgid "Outline"
+msgstr ""
+
+#: ../includes/elementor-core.php:1737
+msgid "Normal text link"
+msgstr ""
+
+#: ../includes/elementor-core.php:1744
+msgid "Select Flat Button Shape"
+msgstr ""
+
+#: ../includes/elementor-core.php:1745
+msgid "Slect Button Shape."
+msgstr ""
+
+#: ../includes/elementor-core.php:1764
+msgid "Select Outline Button Style"
+msgstr ""
+
+#: ../includes/elementor-core.php:1765
+msgid "Slect Button style."
+msgstr ""
+
+#: ../includes/elementor/blog.php:17
+msgid "Lyfpro Blog Element"
+msgstr ""
+
+#: ../includes/elementor/blog.php:43 ../includes/elementor/client.php:43
+#: ../includes/elementor/multiple-icon-heading.php:43
+#: ../includes/elementor/portfolio.php:43 ../includes/elementor/pricing-table.php:40
+#: ../includes/elementor/service.php:43 ../includes/elementor/static-box.php:43
+#: ../includes/elementor/team.php:43 ../includes/elementor/testimonial.php:43
+#: ../includes/elementor/timeline.php:43
+msgid "Heading and Subheading"
+msgstr ""
+
+#: ../includes/elementor/blog.php:49 ../includes/elementor/blog.php:265
+#: ../includes/elementor/client.php:49 ../includes/elementor/client.php:265
+#: ../includes/elementor/fid.php:61 ../includes/elementor/heading-subheading.php:43
+#: ../includes/elementor/heading-subheading.php:191
+#: ../includes/elementor/icon-heading.php:116 ../includes/elementor/icon-heading.php:272
+#: ../includes/elementor/multiple-icon-heading.php:49
+#: ../includes/elementor/multiple-icon-heading.php:270
+#: ../includes/elementor/portfolio.php:49 ../includes/elementor/portfolio.php:266
+#: ../includes/elementor/pricing-table.php:46 ../includes/elementor/service.php:49
+#: ../includes/elementor/service.php:265 ../includes/elementor/static-box.php:49
+#: ../includes/elementor/team.php:49 ../includes/elementor/team.php:265
+#: ../includes/elementor/testimonial.php:49 ../includes/elementor/testimonial.php:265
+#: ../includes/elementor/timeline.php:49 ../includes/elementor/timeline.php:217
+msgid "Title"
+msgstr ""
+
+#: ../includes/elementor/blog.php:54 ../includes/elementor/client.php:54
+#: ../includes/elementor/fid.php:66 ../includes/elementor/heading-subheading.php:48
+#: ../includes/elementor/icon-heading.php:121
+#: ../includes/elementor/multiple-icon-heading.php:54
+#: ../includes/elementor/multiple-icon-heading.php:275
+#: ../includes/elementor/multiple-icon-heading.php:407
+#: ../includes/elementor/multiple-icon-heading.php:442
+#: ../includes/elementor/multiple-icon-heading.php:477
+#: ../includes/elementor/portfolio.php:54 ../includes/elementor/pricing-table.php:51
+#: ../includes/elementor/service.php:54 ../includes/elementor/static-box.php:54
+#: ../includes/elementor/team.php:54 ../includes/elementor/testimonial.php:54
+#: ../includes/elementor/timeline.php:54
+msgid "Welcome to our site"
+msgstr ""
+
+#: ../includes/elementor/blog.php:55 ../includes/elementor/client.php:55
+#: ../includes/elementor/fid.php:67 ../includes/elementor/heading-subheading.php:49
+#: ../includes/elementor/icon-heading.php:122
+#: ../includes/elementor/multiple-icon-heading.php:55
+#: ../includes/elementor/multiple-icon-heading.php:276
+#: ../includes/elementor/portfolio.php:55 ../includes/elementor/pricing-table.php:52
+#: ../includes/elementor/service.php:55 ../includes/elementor/static-box.php:55
+#: ../includes/elementor/team.php:55 ../includes/elementor/testimonial.php:55
+#: ../includes/elementor/timeline.php:55
+msgid "Enter your title"
+msgstr ""
+
+#: ../includes/elementor/blog.php:62 ../includes/elementor/client.php:62
+#: ../includes/elementor/heading-subheading.php:56
+#: ../includes/elementor/icon-heading.php:129
+#: ../includes/elementor/multiple-icon-heading.php:62
+#: ../includes/elementor/multiple-icon-heading.php:283
+#: ../includes/elementor/portfolio.php:62 ../includes/elementor/pricing-table.php:59
+#: ../includes/elementor/service.php:62 ../includes/elementor/static-box.php:62
+#: ../includes/elementor/team.php:62 ../includes/elementor/testimonial.php:62
+#: ../includes/elementor/timeline.php:62
+msgid "Title Link"
+msgstr ""
+
+#: ../includes/elementor/blog.php:70 ../includes/elementor/client.php:70
+#: ../includes/elementor/heading-subheading.php:64
+#: ../includes/elementor/heading-subheading.php:237
+#: ../includes/elementor/icon-heading.php:137 ../includes/elementor/icon-heading.php:318
+#: ../includes/elementor/multiple-icon-heading.php:70
+#: ../includes/elementor/multiple-icon-heading.php:291
+#: ../includes/elementor/portfolio.php:70 ../includes/elementor/pricing-table.php:67
+#: ../includes/elementor/service.php:70 ../includes/elementor/static-box.php:70
+#: ../includes/elementor/team.php:70 ../includes/elementor/testimonial.php:70
+#: ../includes/elementor/timeline.php:70
+msgid "Subtitle"
+msgstr ""
+
+#: ../includes/elementor/blog.php:75 ../includes/elementor/client.php:75
+#: ../includes/elementor/heading-subheading.php:69
+#: ../includes/elementor/icon-heading.php:142
+#: ../includes/elementor/multiple-icon-heading.php:75
+#: ../includes/elementor/multiple-icon-heading.php:296
+#: ../includes/elementor/portfolio.php:75 ../includes/elementor/pricing-table.php:72
+#: ../includes/elementor/service.php:75 ../includes/elementor/static-box.php:75
+#: ../includes/elementor/team.php:75 ../includes/elementor/testimonial.php:75
+#: ../includes/elementor/timeline.php:75
+msgid "This is Subtitle"
+msgstr ""
+
+#: ../includes/elementor/blog.php:76 ../includes/elementor/client.php:76
+#: ../includes/elementor/heading-subheading.php:70
+#: ../includes/elementor/icon-heading.php:143
+#: ../includes/elementor/multiple-icon-heading.php:76
+#: ../includes/elementor/multiple-icon-heading.php:297
+#: ../includes/elementor/portfolio.php:76 ../includes/elementor/pricing-table.php:73
+#: ../includes/elementor/service.php:76 ../includes/elementor/static-box.php:76
+#: ../includes/elementor/team.php:76 ../includes/elementor/testimonial.php:76
+#: ../includes/elementor/timeline.php:76
+msgid "Enter your subtitle"
+msgstr ""
+
+#: ../includes/elementor/blog.php:83 ../includes/elementor/client.php:83
+#: ../includes/elementor/heading-subheading.php:77
+#: ../includes/elementor/icon-heading.php:150
+#: ../includes/elementor/multiple-icon-heading.php:83
+#: ../includes/elementor/multiple-icon-heading.php:304
+#: ../includes/elementor/portfolio.php:83 ../includes/elementor/pricing-table.php:80
+#: ../includes/elementor/service.php:83 ../includes/elementor/static-box.php:83
+#: ../includes/elementor/team.php:83 ../includes/elementor/testimonial.php:83
+#: ../includes/elementor/timeline.php:83
+msgid "Subtitle Link"
+msgstr ""
+
+#: ../includes/elementor/blog.php:91 ../includes/elementor/client.php:91
+#: ../includes/elementor/heading-subheading.php:85
+#: ../includes/elementor/heading-subheading.php:282
+#: ../includes/elementor/icon-heading.php:158 ../includes/elementor/icon-heading.php:363
+#: ../includes/elementor/multiple-icon-heading.php:91
+#: ../includes/elementor/multiple-icon-heading.php:312
+#: ../includes/elementor/portfolio.php:91 ../includes/elementor/pricing-table.php:88
+#: ../includes/elementor/service.php:91 ../includes/elementor/static-box.php:91
+#: ../includes/elementor/team.php:91 ../includes/elementor/testimonial.php:91
+#: ../includes/elementor/timeline.php:91 ../includes/elementor/timeline.php:226
+#: ../includes/meta-boxes.php:1191 ../setup/envato_setup.php:1004
+msgid "Description"
+msgstr ""
+
+#: ../includes/elementor/blog.php:93 ../includes/elementor/client.php:93
+#: ../includes/elementor/heading-subheading.php:87
+#: ../includes/elementor/icon-heading.php:163
+#: ../includes/elementor/multiple-icon-heading.php:93
+#: ../includes/elementor/multiple-icon-heading.php:317
+#: ../includes/elementor/portfolio.php:93 ../includes/elementor/pricing-table.php:90
+#: ../includes/elementor/service.php:93 ../includes/elementor/static-box.php:93
+#: ../includes/elementor/team.php:93 ../includes/elementor/testimonial.php:93
+#: ../includes/elementor/timeline.php:93
+msgid "Type your description here"
+msgstr ""
+
+#: ../includes/elementor/blog.php:99 ../includes/elementor/client.php:99
+#: ../includes/elementor/multiple-icon-heading.php:99
+#: ../includes/elementor/portfolio.php:99 ../includes/elementor/pricing-table.php:96
+#: ../includes/elementor/service.php:99 ../includes/elementor/static-box.php:99
+#: ../includes/elementor/team.php:99 ../includes/elementor/testimonial.php:99
+#: ../includes/elementor/timeline.php:99
+msgid "Reverse Title"
+msgstr ""
+
+#: ../includes/elementor/blog.php:100 ../includes/elementor/client.php:100
+#: ../includes/elementor/heading-subheading.php:94
+#: ../includes/elementor/multiple-icon-heading.php:100
+#: ../includes/elementor/portfolio.php:100 ../includes/elementor/pricing-table.php:97
+#: ../includes/elementor/service.php:100 ../includes/elementor/static-box.php:100
+#: ../includes/elementor/team.php:100 ../includes/elementor/testimonial.php:100
+#: ../includes/elementor/timeline.php:100
+msgid "Show sub-title before title"
+msgstr ""
+
+#: ../includes/elementor/blog.php:111 ../includes/elementor/client.php:111
+#: ../includes/elementor/heading-subheading.php:106
+#: ../includes/elementor/multiple-icon-heading.php:111
+#: ../includes/elementor/portfolio.php:111 ../includes/elementor/pricing-table.php:108
+#: ../includes/elementor/service.php:111 ../includes/elementor/static-box.php:111
+#: ../includes/elementor/team.php:111 ../includes/elementor/testimonial.php:111
+#: ../includes/elementor/timeline.php:111
+msgid "Alignment"
+msgstr ""
+
+#: ../includes/elementor/blog.php:115 ../includes/elementor/client.php:115
+#: ../includes/elementor/heading-subheading.php:110
+#: ../includes/elementor/multiple-icon-heading.php:115
+#: ../includes/elementor/portfolio.php:115 ../includes/elementor/pricing-table.php:112
+#: ../includes/elementor/service.php:115 ../includes/elementor/static-box.php:115
+#: ../includes/elementor/team.php:115 ../includes/elementor/testimonial.php:115
+#: ../includes/elementor/timeline.php:115
+msgid "Left"
+msgstr ""
+
+#: ../includes/elementor/blog.php:119 ../includes/elementor/client.php:119
+#: ../includes/elementor/heading-subheading.php:114
+#: ../includes/elementor/multiple-icon-heading.php:119
+#: ../includes/elementor/portfolio.php:119 ../includes/elementor/pricing-table.php:116
+#: ../includes/elementor/service.php:119 ../includes/elementor/static-box.php:119
+#: ../includes/elementor/team.php:119 ../includes/elementor/testimonial.php:119
+#: ../includes/elementor/timeline.php:119
+msgid "Center"
+msgstr ""
+
+#: ../includes/elementor/blog.php:123 ../includes/elementor/client.php:123
+#: ../includes/elementor/heading-subheading.php:118
+#: ../includes/elementor/multiple-icon-heading.php:123
+#: ../includes/elementor/portfolio.php:123 ../includes/elementor/pricing-table.php:120
+#: ../includes/elementor/service.php:123 ../includes/elementor/static-box.php:123
+#: ../includes/elementor/team.php:123 ../includes/elementor/testimonial.php:123
+#: ../includes/elementor/timeline.php:123
+msgid "Right"
+msgstr ""
+
+#: ../includes/elementor/blog.php:141 ../includes/elementor/client.php:141
+#: ../includes/elementor/heading-subheading.php:137
+#: ../includes/elementor/icon-heading.php:194
+#: ../includes/elementor/multiple-icon-heading.php:142
+#: ../includes/elementor/multiple-icon-heading.php:348
+#: ../includes/elementor/portfolio.php:142 ../includes/elementor/pricing-table.php:138
+#: ../includes/elementor/service.php:141 ../includes/elementor/static-box.php:141
+#: ../includes/elementor/team.php:141 ../includes/elementor/testimonial.php:141
+#: ../includes/elementor/timeline.php:141
+msgid "Tags for SEO"
+msgstr ""
+
+#: ../includes/elementor/blog.php:149 ../includes/elementor/client.php:149
+#: ../includes/elementor/heading-subheading.php:145
+#: ../includes/elementor/icon-heading.php:202
+#: ../includes/elementor/multiple-icon-heading.php:150
+#: ../includes/elementor/multiple-icon-heading.php:356
+#: ../includes/elementor/portfolio.php:150 ../includes/elementor/pricing-table.php:146
+#: ../includes/elementor/service.php:149 ../includes/elementor/static-box.php:149
+#: ../includes/elementor/team.php:149 ../includes/elementor/testimonial.php:149
+#: ../includes/elementor/timeline.php:149
+msgid "Title Tag"
+msgstr ""
+
+#: ../includes/elementor/blog.php:166 ../includes/elementor/client.php:166
+#: ../includes/elementor/heading-subheading.php:162
+#: ../includes/elementor/icon-heading.php:219
+#: ../includes/elementor/multiple-icon-heading.php:167
+#: ../includes/elementor/multiple-icon-heading.php:373
+#: ../includes/elementor/portfolio.php:167 ../includes/elementor/pricing-table.php:163
+#: ../includes/elementor/service.php:166 ../includes/elementor/static-box.php:166
+#: ../includes/elementor/team.php:166 ../includes/elementor/testimonial.php:166
+#: ../includes/elementor/timeline.php:166
+msgid "SubTitle Tag"
+msgstr ""
+
+#: ../includes/elementor/blog.php:186 ../includes/elementor/client.php:186
+#: ../includes/elementor/multiple-icon-heading.php:187
+#: ../includes/elementor/portfolio.php:187 ../includes/elementor/service.php:186
+#: ../includes/elementor/team.php:186 ../includes/elementor/testimonial.php:186
+msgid "Data Options"
+msgstr ""
+
+#: ../includes/elementor/blog.php:192 ../includes/elementor/client.php:192
+#: ../includes/elementor/portfolio.php:193 ../includes/elementor/service.php:192
+#: ../includes/elementor/team.php:192 ../includes/elementor/testimonial.php:192
+msgid "Skip Post (offset)"
+msgstr ""
+
+#: ../includes/elementor/blog.php:193 ../includes/elementor/client.php:193
+#: ../includes/elementor/portfolio.php:194 ../includes/elementor/service.php:193
+#: ../includes/elementor/team.php:193 ../includes/elementor/testimonial.php:193
+msgid "How many Post you like to skip."
+msgstr ""
+
+#: ../includes/elementor/blog.php:198 ../includes/elementor/client.php:198
+#: ../includes/elementor/portfolio.php:199 ../includes/elementor/service.php:198
+#: ../includes/elementor/team.php:198 ../includes/elementor/testimonial.php:198
+msgid "Show All Post (No skip)"
+msgstr ""
+
+#: ../includes/elementor/blog.php:199 ../includes/elementor/client.php:199
+#: ../includes/elementor/portfolio.php:200 ../includes/elementor/service.php:199
+#: ../includes/elementor/team.php:199 ../includes/elementor/testimonial.php:199
+msgid "Skip first Post"
+msgstr ""
+
+#: ../includes/elementor/blog.php:200 ../includes/elementor/client.php:200
+#: ../includes/elementor/portfolio.php:201 ../includes/elementor/service.php:200
+#: ../includes/elementor/team.php:200 ../includes/elementor/testimonial.php:200
+msgid "Skip two Posts"
+msgstr ""
+
+#: ../includes/elementor/blog.php:201 ../includes/elementor/client.php:201
+#: ../includes/elementor/portfolio.php:202 ../includes/elementor/service.php:201
+#: ../includes/elementor/team.php:201 ../includes/elementor/testimonial.php:201
+msgid "Skip three Posts"
+msgstr ""
+
+#: ../includes/elementor/blog.php:202 ../includes/elementor/client.php:202
+#: ../includes/elementor/portfolio.php:203 ../includes/elementor/service.php:202
+#: ../includes/elementor/team.php:202 ../includes/elementor/testimonial.php:202
+msgid "Skip four Posts"
+msgstr ""
+
+#: ../includes/elementor/blog.php:203 ../includes/elementor/client.php:203
+#: ../includes/elementor/portfolio.php:204 ../includes/elementor/service.php:203
+#: ../includes/elementor/team.php:203 ../includes/elementor/testimonial.php:203
+msgid "Skip five Posts"
+msgstr ""
+
+#: ../includes/elementor/blog.php:210
+msgid "Show Post from selected Blog Category?"
+msgstr ""
+
+#: ../includes/elementor/blog.php:215 ../includes/elementor/client.php:215
+#: ../includes/elementor/portfolio.php:216 ../includes/elementor/service.php:215
+#: ../includes/elementor/team.php:215 ../includes/elementor/testimonial.php:215
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/elementor/blog.php:221 ../includes/elementor/client.php:221
+#: ../includes/elementor/portfolio.php:222 ../includes/elementor/service.php:221
+#: ../includes/elementor/team.php:221 ../includes/elementor/testimonial.php:221
+msgid "Post to show"
+msgstr ""
+
+#: ../includes/elementor/blog.php:222 ../includes/elementor/client.php:222
+#: ../includes/elementor/portfolio.php:223 ../includes/elementor/service.php:222
+#: ../includes/elementor/team.php:222 ../includes/elementor/testimonial.php:222
+msgid "How many Post you want to show."
+msgstr ""
+
+#: ../includes/elementor/blog.php:231
+msgid "Show Sortable Blog Category ?"
+msgstr ""
+
+#: ../includes/elementor/blog.php:232
+msgid "Select YES to show sortable Blog Category."
+msgstr ""
+
+#: ../includes/elementor/blog.php:244 ../includes/elementor/client.php:244
+#: ../includes/elementor/portfolio.php:245 ../includes/elementor/service.php:244
+#: ../includes/elementor/team.php:244 ../includes/elementor/testimonial.php:244
+msgid "Order"
+msgstr ""
+
+#: ../includes/elementor/blog.php:245 ../includes/elementor/client.php:245
+#: ../includes/elementor/portfolio.php:246 ../includes/elementor/service.php:245
+#: ../includes/elementor/team.php:245 ../includes/elementor/testimonial.php:245
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: ../includes/elementor/blog.php:250 ../includes/elementor/client.php:250
+#: ../includes/elementor/portfolio.php:251 ../includes/elementor/service.php:250
+#: ../includes/elementor/team.php:250 ../includes/elementor/testimonial.php:250
+msgid "Ascending order (1, 2, 3; a, b, c)"
+msgstr ""
+
+#: ../includes/elementor/blog.php:251 ../includes/elementor/client.php:251
+#: ../includes/elementor/portfolio.php:252 ../includes/elementor/service.php:251
+#: ../includes/elementor/team.php:251 ../includes/elementor/testimonial.php:251
+msgid "Descending order (3, 2, 1; c, b, a)"
+msgstr ""
+
+#: ../includes/elementor/blog.php:258 ../includes/elementor/client.php:258
+#: ../includes/elementor/portfolio.php:259 ../includes/elementor/service.php:258
+#: ../includes/elementor/team.php:258 ../includes/elementor/testimonial.php:258
+msgid "Order By"
+msgstr ""
+
+#: ../includes/elementor/blog.php:259 ../includes/elementor/client.php:259
+#: ../includes/elementor/portfolio.php:260 ../includes/elementor/service.php:259
+#: ../includes/elementor/team.php:259 ../includes/elementor/testimonial.php:259
+msgid " Sort retrieved posts by parameter."
+msgstr ""
+
+#: ../includes/elementor/blog.php:263 ../includes/elementor/client.php:263
+#: ../includes/elementor/portfolio.php:264 ../includes/elementor/service.php:263
+#: ../includes/elementor/team.php:263 ../includes/elementor/testimonial.php:263
+msgid "No order"
+msgstr ""
+
+#: ../includes/elementor/blog.php:264 ../includes/elementor/client.php:264
+#: ../includes/elementor/portfolio.php:265 ../includes/elementor/service.php:264
+#: ../includes/elementor/team.php:264 ../includes/elementor/testimonial.php:264
+msgid "ID"
+msgstr ""
+
+#: ../includes/elementor/blog.php:267 ../includes/elementor/client.php:267
+#: ../includes/elementor/portfolio.php:268 ../includes/elementor/service.php:267
+#: ../includes/elementor/team.php:267 ../includes/elementor/testimonial.php:267
+msgid "Random"
+msgstr ""
+
+#: ../includes/elementor/blog.php:274 ../includes/elementor/client.php:274
+#: ../includes/elementor/portfolio.php:275 ../includes/elementor/service.php:274
+#: ../includes/elementor/team.php:274 ../includes/elementor/testimonial.php:274
+msgid "Box Gap"
+msgstr ""
+
+#: ../includes/elementor/blog.php:275 ../includes/elementor/client.php:275
+#: ../includes/elementor/portfolio.php:276 ../includes/elementor/service.php:275
+#: ../includes/elementor/team.php:275 ../includes/elementor/testimonial.php:275
+msgid "Gap between each Post box."
+msgstr ""
+
+#: ../includes/elementor/blog.php:279 ../includes/elementor/client.php:279
+#: ../includes/elementor/portfolio.php:280 ../includes/elementor/service.php:279
+#: ../includes/elementor/team.php:279 ../includes/elementor/testimonial.php:279
+msgid "No Gap (0px)"
+msgstr ""
+
+#: ../includes/elementor/blog.php:280 ../includes/elementor/client.php:280
+#: ../includes/elementor/portfolio.php:281 ../includes/elementor/service.php:280
+#: ../includes/elementor/team.php:280 ../includes/elementor/testimonial.php:280
+msgid "5px"
+msgstr ""
+
+#: ../includes/elementor/blog.php:281 ../includes/elementor/client.php:281
+#: ../includes/elementor/portfolio.php:282 ../includes/elementor/service.php:281
+#: ../includes/elementor/team.php:281 ../includes/elementor/testimonial.php:281
+msgid "10px"
+msgstr ""
+
+#: ../includes/elementor/blog.php:282 ../includes/elementor/client.php:282
+#: ../includes/elementor/portfolio.php:283 ../includes/elementor/service.php:282
+#: ../includes/elementor/team.php:282 ../includes/elementor/testimonial.php:282
+msgid "15px"
+msgstr ""
+
+#: ../includes/elementor/blog.php:283 ../includes/elementor/client.php:283
+#: ../includes/elementor/portfolio.php:284 ../includes/elementor/service.php:283
+#: ../includes/elementor/team.php:283 ../includes/elementor/testimonial.php:283
+msgid "20px"
+msgstr ""
+
+#: ../includes/elementor/blog.php:284 ../includes/elementor/client.php:284
+#: ../includes/elementor/portfolio.php:285 ../includes/elementor/service.php:284
+#: ../includes/elementor/team.php:284 ../includes/elementor/testimonial.php:284
+msgid "25px"
+msgstr ""
+
+#: ../includes/elementor/blog.php:285 ../includes/elementor/client.php:285
+#: ../includes/elementor/portfolio.php:286 ../includes/elementor/service.php:285
+#: ../includes/elementor/team.php:285 ../includes/elementor/testimonial.php:285
+msgid "30px"
+msgstr ""
+
+#: ../includes/elementor/blog.php:286 ../includes/elementor/client.php:286
+#: ../includes/elementor/portfolio.php:287 ../includes/elementor/service.php:286
+#: ../includes/elementor/team.php:286 ../includes/elementor/testimonial.php:286
+msgid "35px"
+msgstr ""
+
+#: ../includes/elementor/blog.php:287 ../includes/elementor/client.php:287
+#: ../includes/elementor/portfolio.php:288 ../includes/elementor/service.php:287
+#: ../includes/elementor/team.php:287 ../includes/elementor/testimonial.php:287
+msgid "40px"
+msgstr ""
+
+#: ../includes/elementor/blog.php:288 ../includes/elementor/client.php:288
+#: ../includes/elementor/portfolio.php:289 ../includes/elementor/service.php:288
+#: ../includes/elementor/team.php:288 ../includes/elementor/testimonial.php:288
+msgid "45px"
+msgstr ""
+
+#: ../includes/elementor/blog.php:289 ../includes/elementor/client.php:289
+#: ../includes/elementor/portfolio.php:290 ../includes/elementor/service.php:289
+#: ../includes/elementor/team.php:289 ../includes/elementor/testimonial.php:289
+msgid "50px"
+msgstr ""
+
+#: ../includes/elementor/blog.php:299 ../includes/elementor/client.php:299
+#: ../includes/elementor/fid.php:157 ../includes/elementor/icon-heading.php:240
+#: ../includes/elementor/multiple-icon-heading.php:515
+#: ../includes/elementor/portfolio.php:300 ../includes/elementor/pricing-table.php:420
+#: ../includes/elementor/service.php:299 ../includes/elementor/static-box.php:263
+#: ../includes/elementor/team.php:299 ../includes/elementor/testimonial.php:299
+msgid "Select Style"
+msgstr ""
+
+#: ../includes/elementor/blog.php:306
+msgid "Select Blog View Style"
+msgstr ""
+
+#: ../includes/elementor/blog.php:307
+msgid "Slect Blog View style."
+msgstr ""
+
+#: ../includes/elementor/blog.php:322 ../includes/elementor/client.php:321
+#: ../includes/elementor/multiple-icon-heading.php:538
+#: ../includes/elementor/portfolio.php:322 ../includes/elementor/service.php:321
+#: ../includes/elementor/static-box.php:285 ../includes/elementor/team.php:321
+#: ../includes/elementor/testimonial.php:321
+msgid "Column and Carousel Options"
+msgstr ""
+
+#: ../includes/elementor/blog.php:329 ../includes/elementor/client.php:328
+#: ../includes/elementor/multiple-icon-heading.php:545
+#: ../includes/elementor/portfolio.php:329 ../includes/elementor/service.php:328
+#: ../includes/elementor/static-box.php:292 ../includes/elementor/team.php:328
+#: ../includes/elementor/testimonial.php:328
+msgid "How you like to view each Post box?"
+msgstr ""
+
+#: ../includes/elementor/blog.php:330 ../includes/elementor/client.php:329
+#: ../includes/elementor/multiple-icon-heading.php:546
+#: ../includes/elementor/portfolio.php:330 ../includes/elementor/service.php:329
+#: ../includes/elementor/static-box.php:293 ../includes/elementor/team.php:329
+#: ../includes/elementor/testimonial.php:329
+msgid "Show as carousel view or simple row-column view."
+msgstr ""
+
+#: ../includes/elementor/blog.php:346 ../includes/elementor/client.php:345
+#: ../includes/elementor/multiple-icon-heading.php:562
+#: ../includes/elementor/portfolio.php:346 ../includes/elementor/service.php:345
+#: ../includes/elementor/static-box.php:309 ../includes/elementor/team.php:345
+#: ../includes/elementor/testimonial.php:345
+msgid "Row-Column Options"
+msgstr ""
+
+#: ../includes/elementor/blog.php:359 ../includes/elementor/client.php:358
+#: ../includes/elementor/multiple-icon-heading.php:575
+#: ../includes/elementor/portfolio.php:359 ../includes/elementor/service.php:358
+#: ../includes/elementor/static-box.php:322 ../includes/elementor/team.php:358
+#: ../includes/elementor/testimonial.php:358
+msgid "Carousel Options"
+msgstr ""
+
+#: ../includes/elementor/blog.php:371 ../includes/elementor/client.php:370
+#: ../includes/elementor/multiple-icon-heading.php:587
+#: ../includes/elementor/portfolio.php:371 ../includes/elementor/service.php:370
+#: ../includes/elementor/static-box.php:334 ../includes/elementor/team.php:370
+#: ../includes/elementor/testimonial.php:370
+msgid "Carousel: Loop"
+msgstr ""
+
+#: ../includes/elementor/blog.php:372 ../includes/elementor/client.php:371
+#: ../includes/elementor/multiple-icon-heading.php:588
+#: ../includes/elementor/portfolio.php:372 ../includes/elementor/service.php:371
+#: ../includes/elementor/static-box.php:335 ../includes/elementor/team.php:371
+#: ../includes/elementor/testimonial.php:371
+msgid "Infinity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: ../includes/elementor/blog.php:388 ../includes/elementor/client.php:387
+#: ../includes/elementor/multiple-icon-heading.php:604
+#: ../includes/elementor/portfolio.php:388 ../includes/elementor/service.php:387
+#: ../includes/elementor/static-box.php:351 ../includes/elementor/team.php:387
+#: ../includes/elementor/testimonial.php:387
+msgid "Carousel: Autoplay"
+msgstr ""
+
+#: ../includes/elementor/blog.php:389 ../includes/elementor/client.php:388
+#: ../includes/elementor/multiple-icon-heading.php:605
+#: ../includes/elementor/portfolio.php:389 ../includes/elementor/service.php:388
+#: ../includes/elementor/static-box.php:352 ../includes/elementor/team.php:388
+#: ../includes/elementor/testimonial.php:388
+msgid "Autoplay of carousel."
+msgstr ""
+
+#: ../includes/elementor/blog.php:405 ../includes/elementor/client.php:404
+#: ../includes/elementor/multiple-icon-heading.php:621
+#: ../includes/elementor/portfolio.php:405 ../includes/elementor/service.php:404
+#: ../includes/elementor/static-box.php:368 ../includes/elementor/team.php:404
+#: ../includes/elementor/testimonial.php:404
+msgid "Carousel: Center"
+msgstr ""
+
+#: ../includes/elementor/blog.php:406 ../includes/elementor/client.php:405
+#: ../includes/elementor/multiple-icon-heading.php:622
+#: ../includes/elementor/portfolio.php:406 ../includes/elementor/service.php:405
+#: ../includes/elementor/static-box.php:369 ../includes/elementor/team.php:405
+#: ../includes/elementor/testimonial.php:405
+msgid "Center item. Works well with even an odd number of items."
+msgstr ""
+
+#: ../includes/elementor/blog.php:422 ../includes/elementor/client.php:421
+#: ../includes/elementor/multiple-icon-heading.php:638
+#: ../includes/elementor/portfolio.php:422 ../includes/elementor/service.php:421
+#: ../includes/elementor/static-box.php:385 ../includes/elementor/team.php:421
+#: ../includes/elementor/testimonial.php:421
+msgid "Carousel: Nav"
+msgstr ""
+
+#: ../includes/elementor/blog.php:423 ../includes/elementor/client.php:422
+#: ../includes/elementor/multiple-icon-heading.php:639
+#: ../includes/elementor/portfolio.php:423 ../includes/elementor/service.php:422
+#: ../includes/elementor/static-box.php:386 ../includes/elementor/team.php:422
+#: ../includes/elementor/testimonial.php:422
+msgid "Show next/prev buttons."
+msgstr ""
+
+#: ../includes/elementor/blog.php:439 ../includes/elementor/client.php:438
+#: ../includes/elementor/multiple-icon-heading.php:655
+#: ../includes/elementor/portfolio.php:439 ../includes/elementor/service.php:438
+#: ../includes/elementor/static-box.php:402 ../includes/elementor/team.php:438
+#: ../includes/elementor/testimonial.php:438
+msgid "Carousel: Dots"
+msgstr ""
+
+#: ../includes/elementor/blog.php:440 ../includes/elementor/client.php:439
+#: ../includes/elementor/multiple-icon-heading.php:656
+#: ../includes/elementor/portfolio.php:440 ../includes/elementor/service.php:439
+#: ../includes/elementor/static-box.php:403 ../includes/elementor/team.php:439
+#: ../includes/elementor/testimonial.php:439
+msgid "Show dots navigation."
+msgstr ""
+
+#: ../includes/elementor/blog.php:456 ../includes/elementor/client.php:455
+#: ../includes/elementor/multiple-icon-heading.php:672
+#: ../includes/elementor/portfolio.php:456 ../includes/elementor/service.php:455
+#: ../includes/elementor/static-box.php:419 ../includes/elementor/team.php:455
+#: ../includes/elementor/testimonial.php:455
+msgid "Carousel: autoplaySpeed"
+msgstr ""
+
+#: ../includes/elementor/blog.php:457 ../includes/elementor/client.php:456
+#: ../includes/elementor/multiple-icon-heading.php:673
+#: ../includes/elementor/portfolio.php:457 ../includes/elementor/service.php:456
+#: ../includes/elementor/static-box.php:420 ../includes/elementor/team.php:456
+#: ../includes/elementor/testimonial.php:456
+msgid "autoplay speed."
+msgstr ""
+
+#: ../includes/elementor/blog.php:470 ../includes/elementor/client.php:469
+#: ../includes/elementor/multiple-icon-heading.php:686
+#: ../includes/elementor/portfolio.php:470 ../includes/elementor/service.php:469
+#: ../includes/elementor/static-box.php:433 ../includes/elementor/team.php:469
+#: ../includes/elementor/testimonial.php:469
+msgid "View in Column"
+msgstr ""
+
+#: ../includes/elementor/blog.php:471 ../includes/elementor/client.php:470
+#: ../includes/elementor/multiple-icon-heading.php:687
+#: ../includes/elementor/portfolio.php:471 ../includes/elementor/service.php:470
+#: ../includes/elementor/static-box.php:434 ../includes/elementor/team.php:470
+#: ../includes/elementor/testimonial.php:470
+msgid "Select how many column to show."
+msgstr ""
+
+#: ../includes/elementor/client.php:17
+msgid "Lyfpro Client Logo Element"
+msgstr ""
+
+#: ../includes/elementor/client.php:210
+msgid "Show Post from selected Client Category?"
+msgstr ""
+
+#: ../includes/elementor/client.php:231
+msgid "Show Sortable Client Category ?"
+msgstr ""
+
+#: ../includes/elementor/client.php:232
+msgid "Select YES to show sortable Client Category."
+msgstr ""
+
+#: ../includes/elementor/client.php:306
+msgid "Select Client View Style"
+msgstr ""
+
+#: ../includes/elementor/client.php:307
+msgid "Slect Client View style."
+msgstr ""
+
+#: ../includes/elementor/fid.php:17
+msgid "Lyfpro Facts-in-Digits Element"
+msgstr ""
+
+#: ../includes/elementor/fid.php:42 ../includes/elementor/timeline.php:186
+msgid "Content Options"
+msgstr ""
+
+#: ../includes/elementor/fid.php:75
+msgid "Rotating Digit"
+msgstr ""
+
+#: ../includes/elementor/fid.php:76
+msgid "Enter rotating number digit here."
+msgstr ""
+
+#: ../includes/elementor/fid.php:86
+msgid "Rotating digit Interval"
+msgstr ""
+
+#: ../includes/elementor/fid.php:87
+msgid "Enter rotating interval number here."
+msgstr ""
+
+#: ../includes/elementor/fid.php:96
+msgid "Text Before Number (Prefix)"
+msgstr ""
+
+#: ../includes/elementor/fid.php:97
+msgid "Enter text which appear just before the rotating numbers."
+msgstr ""
+
+#: ../includes/elementor/fid.php:110 ../includes/elementor/fid.php:139
+msgid "Text Style"
+msgstr ""
+
+#: ../includes/elementor/fid.php:111 ../includes/elementor/fid.php:140
+msgid "Select text style for the text."
+msgstr ""
+
+#: ../includes/elementor/fid.php:111 ../includes/elementor/fid.php:140
+msgid "Superscript Example:"
+msgstr ""
+
+#: ../includes/elementor/fid.php:111 ../includes/elementor/fid.php:140
+msgid "Subscript Example:"
+msgstr ""
+
+#: ../includes/elementor/fid.php:115 ../includes/elementor/fid.php:144
+msgid "Superscript"
+msgstr ""
+
+#: ../includes/elementor/fid.php:116 ../includes/elementor/fid.php:145
+msgid "Subscript"
+msgstr ""
+
+#: ../includes/elementor/fid.php:117 ../includes/elementor/fid.php:146
+msgid "Normal"
+msgstr ""
+
+#: ../includes/elementor/fid.php:125
+msgid "Text After Number (Suffix)"
+msgstr ""
+
+#: ../includes/elementor/fid.php:126
+msgid "Enter text which appear just after the rotating numbers."
+msgstr ""
+
+#: ../includes/elementor/fid.php:164
+msgid "Select FID View Style"
+msgstr ""
+
+#: ../includes/elementor/fid.php:165
+msgid "Slect FID View style."
+msgstr ""
+
+#: ../includes/elementor/heading-subheading.php:17
+msgid "Lyfpro Heading & Subheading Element"
+msgstr ""
+
+#: ../includes/elementor/heading-subheading.php:36
+#: ../includes/elementor/icon-heading.php:36 ../setup/envato_setup.php:433
+msgid "Content"
+msgstr ""
+
+#: ../includes/elementor/heading-subheading.php:93
+msgid "Reverse Heading"
+msgstr ""
+
+#: ../includes/elementor/heading-subheading.php:182
+#: ../includes/elementor/icon-heading.php:263
+msgid "Typo Settings"
+msgstr ""
+
+#: ../includes/elementor/heading-subheading.php:200
+#: ../includes/elementor/heading-subheading.php:245
+#: ../includes/elementor/heading-subheading.php:291
+#: ../includes/elementor/icon-heading.php:281 ../includes/elementor/icon-heading.php:326
+#: ../includes/elementor/icon-heading.php:372
+msgid "Color"
+msgstr ""
+
+#: ../includes/elementor/heading-subheading.php:219
+#: ../includes/elementor/heading-subheading.php:264
+#: ../includes/elementor/heading-subheading.php:309
+#: ../includes/elementor/icon-heading.php:300 ../includes/elementor/icon-heading.php:345
+#: ../includes/elementor/icon-heading.php:390
+msgid "Spacing"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:17
+msgid "Lyfpro Icon Heading Element"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:42
+#: ../includes/elementor/multiple-icon-heading.php:196
+#: ../includes/elementor/pricing-table.php:231
+msgid "Icon Type"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:46
+#: ../includes/elementor/multiple-icon-heading.php:200
+#: ../includes/elementor/pricing-table.php:235
+msgid "Image"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:47
+#: ../includes/elementor/multiple-icon-heading.php:201
+#: ../includes/elementor/pricing-table.php:236
+msgid "Text"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:66
+#: ../includes/elementor/multiple-icon-heading.php:220
+msgid "Box Number"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:67
+#: ../includes/elementor/multiple-icon-heading.php:221
+msgid "(Optional) Add box number like \"01\". This will be shown as steps."
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:73
+#: ../includes/elementor/multiple-icon-heading.php:227
+msgid "Enter number"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:84
+#: ../includes/elementor/multiple-icon-heading.php:238
+#: ../includes/elementor/pricing-table.php:259
+msgid "Select Image for Icon"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:85
+#: ../includes/elementor/multiple-icon-heading.php:239
+#: ../includes/elementor/pricing-table.php:260
+msgid ""
+"This image will appear at icon position. Recommended size is 300x300 px transparent "
+"PNG file."
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:98
+#: ../includes/elementor/multiple-icon-heading.php:252
+#: ../includes/elementor/pricing-table.php:273
+msgid "Text for Icon"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:99
+#: ../includes/elementor/multiple-icon-heading.php:253
+#: ../includes/elementor/pricing-table.php:274
+msgid ""
+"The text will appear at icon position. This should be small text like \"01\" or \"PX\""
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:104
+#: ../includes/elementor/multiple-icon-heading.php:258
+#: ../includes/elementor/pricing-table.php:279
+msgid "01"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:105
+#: ../includes/elementor/multiple-icon-heading.php:259
+#: ../includes/elementor/pricing-table.php:280
+msgid "Enter text here"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:170
+#: ../includes/elementor/multiple-icon-heading.php:324
+msgid "Button Title"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:175
+#: ../includes/elementor/multiple-icon-heading.php:329
+#: ../includes/elementor/multiple-icon-heading.php:422
+#: ../includes/elementor/multiple-icon-heading.php:457
+#: ../includes/elementor/multiple-icon-heading.php:492
+#: ../theme-parts/blog/blog-style-1.php:20 ../theme-parts/job-listing-single.php:42
+#: ../theme-parts/job-listing-single.php:50 ../theme-parts/job-listing-single.php:63
+#: ../theme-parts/post-classic.php:72 ../theme-parts/post-classic.php:80
+#: ../theme-parts/post-classic.php:93 ../theme-parts/search-results.php:52
+#: ../theme-parts/service/service-style-2.php:16
+#: ../theme-parts/service/service-style-3.php:16
+msgid "Read More"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:177
+#: ../includes/elementor/multiple-icon-heading.php:331
+msgid "Enter button title here"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:184
+#: ../includes/elementor/multiple-icon-heading.php:338
+#: ../includes/elementor/pricing-table.php:348
+msgid "Button Link"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:247
+#: ../includes/elementor/multiple-icon-heading.php:522
+msgid "Select Icon Heading View Style"
+msgstr ""
+
+#: ../includes/elementor/icon-heading.php:248
+#: ../includes/elementor/multiple-icon-heading.php:523
+msgid "Slect Icon Heading View style."
+msgstr ""
+
+#: ../includes/elementor/multiple-icon-heading.php:17
+msgid "Lyfpro Multiple Icon Heading Element"
+msgstr ""
+
+#: ../includes/elementor/multiple-icon-heading.php:393
+msgid "Each Icon Heading Box"
+msgstr ""
+
+#: ../includes/elementor/multiple-icon-heading.php:394
+msgid "Enter each icon heading box."
+msgstr ""
+
+#: ../includes/elementor/multiple-icon-heading.php:414
+#: ../includes/elementor/multiple-icon-heading.php:449
+#: ../includes/elementor/multiple-icon-heading.php:484
+msgid "This is subtitle"
+msgstr ""
+
+#: ../includes/elementor/portfolio.php:17
+msgid "Lyfpro Portfolio Element"
+msgstr ""
+
+#: ../includes/elementor/portfolio.php:211
+msgid "Show Post from selected Portfolio Category?"
+msgstr ""
+
+#: ../includes/elementor/portfolio.php:232
+msgid "Show Sortable Portfolio Category ?"
+msgstr ""
+
+#: ../includes/elementor/portfolio.php:233
+msgid "Select YES to show sortable Portfolio Category."
+msgstr ""
+
+#: ../includes/elementor/portfolio.php:307
+msgid "Select Portfolio View Style"
+msgstr ""
+
+#: ../includes/elementor/portfolio.php:308
+msgid "Slect Portfolio View style."
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:17
+msgid "Lyfpro Pricing Table Element"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:183
+#: ../includes/elementor/pricing-table.php:189
+msgid "Highlight Column"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:190
+msgid "Select column which is highlighted in pricing table"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:193
+msgid "First Column"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:194
+msgid "Second Column"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:195
+msgid "Third Column"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:196
+msgid "Fourth Column"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:197
+msgid "Fifth Column"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:205
+msgid "Highlight Text"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:210
+msgid "Featured"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:211
+msgid "This will appear as special text"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:224
+#, php-format
+msgid "%1$s Column in Pricing Table"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:291
+msgid "Heading"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:293
+msgid ""
+"Enter text used as main heading. This will be plan title like \"Basic\", \"Pro\" etc."
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:302
+msgid "Price"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:304
+msgid "Enter Price."
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:310
+msgid "Currency symbol"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:312
+msgid "Enter currency symbol"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:318
+msgid "Currency Symbol position"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:319
+msgid "Select currency position."
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:323
+msgid "After Price"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:324
+msgid "Before Price"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:331
+msgid "Price Frequency"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:333
+msgid "Enter currency frequency like \"Monthly\", \"Yearly\" or \"Weekly\" etc."
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:340
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:342
+msgid "Like \"Read More\" or \"Buy Now\"."
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:350
+msgid "Set link for button"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:360
+msgid "Line Label"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:381
+msgid "Each Line (Features)"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:382
+msgid "Enter features that will be shown in spearate lines."
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:387
+msgid "Line One"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:394
+msgid "Line Two"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:401
+msgid "Line Three"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:427 ../includes/elementor/service.php:306
+msgid "Select Service View Style"
+msgstr ""
+
+#: ../includes/elementor/pricing-table.php:428 ../includes/elementor/service.php:307
+msgid "Slect Service View style."
+msgstr ""
+
+#: ../includes/elementor/service.php:17
+msgid "Lyfpro Service Element"
+msgstr ""
+
+#: ../includes/elementor/service.php:210
+msgid "Show Post from selected Service Category?"
+msgstr ""
+
+#: ../includes/elementor/service.php:231
+msgid "Show Sortable Service Category ?"
+msgstr ""
+
+#: ../includes/elementor/service.php:232
+msgid "Select YES to show sortable Service Category."
+msgstr ""
+
+#: ../includes/elementor/static-box.php:17
+msgid "Lyfpro Static Box Element"
+msgstr ""
+
+#: ../includes/elementor/static-box.php:186
+msgid "Boxes Options"
+msgstr ""
+
+#: ../includes/elementor/static-box.php:195 ../includes/elementor/timeline.php:195
+msgid "Choose Image"
+msgstr ""
+
+#: ../includes/elementor/static-box.php:218 ../includes/elementor/static-box.php:220
+#: ../includes/elementor/static-box.php:221
+msgid "Box Title"
+msgstr ""
+
+#: ../includes/elementor/static-box.php:228 ../includes/elementor/static-box.php:229
+#: ../includes/elementor/static-box.php:230
+msgid "Box Content"
+msgstr ""
+
+#: ../includes/elementor/static-box.php:238
+msgid "Boxes"
+msgstr ""
+
+#: ../includes/elementor/static-box.php:244
+msgid "This is first box"
+msgstr ""
+
+#: ../includes/elementor/static-box.php:245 ../includes/elementor/static-box.php:250
+msgid "This is small description"
+msgstr ""
+
+#: ../includes/elementor/static-box.php:249
+msgid "This is second box"
+msgstr ""
+
+#: ../includes/elementor/static-box.php:270
+msgid "Select StaticBox View Style"
+msgstr ""
+
+#: ../includes/elementor/static-box.php:271
+msgid "Slect StaticBox View style."
+msgstr ""
+
+#: ../includes/elementor/team.php:17
+msgid "Lyfpro Team Member Element"
+msgstr ""
+
+#: ../includes/elementor/team.php:210
+msgid "Show Post from selected Team Category?"
+msgstr ""
+
+#: ../includes/elementor/team.php:231
+msgid "Show Sortable Team Category ?"
+msgstr ""
+
+#: ../includes/elementor/team.php:232
+msgid "Select YES to show sortable Team Category."
+msgstr ""
+
+#: ../includes/elementor/team.php:306
+msgid "Select Team Member View Style"
+msgstr ""
+
+#: ../includes/elementor/team.php:307
+msgid "Slect Team Member View style."
+msgstr ""
+
+#: ../includes/elementor/testimonial.php:17
+msgid "Lyfpro Testimonial Element"
+msgstr ""
+
+#: ../includes/elementor/testimonial.php:210
+msgid "Show Post from selected Testimonial Category?"
+msgstr ""
+
+#: ../includes/elementor/testimonial.php:231
+msgid "Show Sortable Testimonial Category ?"
+msgstr ""
+
+#: ../includes/elementor/testimonial.php:232
+msgid "Select YES to show sortable Testimonial Category."
+msgstr ""
+
+#: ../includes/elementor/testimonial.php:306
+msgid "Select Testimonial View Style"
+msgstr ""
+
+#: ../includes/elementor/testimonial.php:307
+msgid "Slect Testimonial View style."
+msgstr ""
+
+#: ../includes/elementor/timeline.php:17
+msgid "Lyfpro Timeline Element"
+msgstr ""
+
+#: ../includes/elementor/timeline.php:208
+msgid "Small Text"
+msgstr ""
+
+#: ../includes/elementor/timeline.php:210
+msgid "Small text like year."
+msgstr ""
+
+#: ../includes/elementor/timeline.php:219
+msgid "Title Text."
+msgstr ""
+
+#: ../includes/elementor/timeline.php:228
+msgid "Description Text."
+msgstr ""
+
+#: ../includes/elementor/timeline.php:235
+msgid "Values"
+msgstr ""
+
+#: ../includes/elementor/timeline.php:236
+msgid "Enter values for graph - value, title and color."
+msgstr ""
+
+#: ../includes/elementor/timeline.php:242
+msgid "2010"
+msgstr ""
+
+#: ../includes/elementor/timeline.php:243 ../includes/elementor/timeline.php:249
+#: ../includes/elementor/timeline.php:255
+msgid "Our new branch"
+msgstr ""
+
+#: ../includes/elementor/timeline.php:244
+msgid "Our 1st branch in USA"
+msgstr ""
+
+#: ../includes/elementor/timeline.php:248
+msgid "2012"
+msgstr ""
+
+#: ../includes/elementor/timeline.php:250
+msgid "Our 5th branch in USA"
+msgstr ""
+
+#: ../includes/elementor/timeline.php:254
+msgid "2014"
+msgstr ""
+
+#: ../includes/elementor/timeline.php:256
+msgid "Our 7th branch in USA"
+msgstr ""
+
+#: ../includes/kirki-config.php:10
+msgid "Lyfpro theme options"
+msgstr ""
+
+#: ../includes/kirki-config.php:52
+msgid "By Designervily Team."
+msgstr ""
+
+#: ../includes/merlin-config.php:14
+msgid "Demo Content - 1st Demo"
+msgstr ""
+
+#: ../includes/merlin-config.php:19
+msgid "This will setup your site same as our Demo 1 site."
+msgstr ""
+
+#: ../includes/merlin-config.php:23
+msgid "Demo Content - 2nd Demo"
+msgstr ""
+
+#: ../includes/merlin-config.php:28
+msgid "This will setup your site same as our Demo 2 site."
+msgstr ""
+
+#: ../includes/merlin-config.php:32
+msgid "Demo Content - 3rd Demo"
+msgstr ""
+
+#: ../includes/merlin-config.php:37
+msgid "This will setup your site same as our Demo 3 site."
+msgstr ""
+
+#: ../includes/merlin-config.php:132
+msgid "Lyfpro Theme Setup"
+msgstr ""
+
+#: ../includes/merlin-config.php:134
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: ../includes/merlin-config.php:135
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/merlin-config.php:136
+msgid "Disable this wizard"
+msgstr ""
+
+#: ../includes/merlin-config.php:137
+msgid "Skip"
+msgstr ""
+
+#: ../includes/merlin-config.php:138
+msgid "Next"
+msgstr ""
+
+#: ../includes/merlin-config.php:139
+msgid "Start"
+msgstr ""
+
+#: ../includes/merlin-config.php:140 ../setup/envato_setup.php:689
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/merlin-config.php:144
+msgid "Import"
+msgstr ""
+
+#: ../includes/merlin-config.php:146
+msgid "Later"
+msgstr ""
+
+#: ../includes/merlin-config.php:148
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: ../includes/merlin-config.php:150
+#, php-format
+msgid "%s is Activated"
+msgstr ""
+
+#: ../includes/merlin-config.php:152
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: ../includes/merlin-config.php:153
+msgid "License key"
+msgstr ""
+
+#: ../includes/merlin-config.php:154
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: ../includes/merlin-config.php:155
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: ../includes/merlin-config.php:156
+msgid "Need help?"
+msgstr ""
+
+#: ../includes/merlin-config.php:158
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: ../includes/merlin-config.php:159
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: ../includes/merlin-config.php:160
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It is "
+"optional & should take only a few minutes."
+msgstr ""
+
+#: ../includes/merlin-config.php:161
+msgid ""
+"You may have already run this theme setup wizard. If you would like to proceed "
+"anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: ../includes/merlin-config.php:162
+msgid "Install Child Theme"
+msgstr ""
+
+#: ../includes/merlin-config.php:163
+msgid "You're good to go!"
+msgstr ""
+
+#: ../includes/merlin-config.php:164
+msgid "Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: ../includes/merlin-config.php:165
+msgid ""
+"Your child theme has already been installed and is now activated, if it wasn't "
+"already."
+msgstr ""
+
+#: ../includes/merlin-config.php:166
+msgid "Learn about child themes"
+msgstr ""
+
+#: ../includes/merlin-config.php:167
+msgid "Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: ../includes/merlin-config.php:168
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: ../includes/merlin-config.php:170
+msgid "You're up to speed!"
+msgstr ""
+
+#: ../includes/merlin-config.php:171
+msgid "Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: ../includes/merlin-config.php:172
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press \"Next\" to "
+"continue the setup wizard."
+msgstr ""
+
+#: ../includes/merlin-config.php:173 ../includes/merlin-config.php:176
+msgid "Advanced"
+msgstr ""
+
+#: ../includes/merlin-config.php:174
+msgid "Import Content"
+msgstr ""
+
+#: ../includes/merlin-config.php:175
+msgid "Let's import content to your website, to help you get familiar with the theme."
+msgstr ""
+
+#: ../includes/merlin-config.php:177
+msgid "All done. Have fun!"
+msgstr ""
+
+#: ../includes/merlin-config.php:179
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: ../includes/merlin-config.php:180
+msgid "More Links"
+msgstr ""
+
+#: ../includes/merlin-config.php:181
+msgid "View your website"
+msgstr ""
+
+#: ../includes/merlin-config.php:182
+msgid "Theme Documenation"
+msgstr ""
+
+#: ../includes/merlin-config.php:183
+msgid "Get Theme Support"
+msgstr ""
+
+#: ../includes/merlin-config.php:184
+msgid "Start Customizing"
+msgstr ""
+
+#: ../includes/meta-boxes.php:22
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: ../includes/meta-boxes.php:25
+msgid "Select that appear in header area"
+msgstr ""
+
+#: ../includes/meta-boxes.php:52
+msgid "No Slider Found"
+msgstr ""
+
+#: ../includes/meta-boxes.php:71
+msgid ""
+"No slider found in Revolution Slider. Please create some slider from Admin > Slider "
+"Revolution section."
+msgstr ""
+
+#: ../includes/meta-boxes.php:79
+msgid "Revolution Slider plugin not installed"
+msgstr ""
+
+#: ../includes/meta-boxes.php:98
+msgid ""
+"Revolution Slider plugin not installed. Please install it from Admin > Appearance > "
+"Install Plugins section."
+msgstr ""
+
+#: ../includes/meta-boxes.php:105
+msgid "Lyfpro - General Settings"
+msgstr ""
+
+#: ../includes/meta-boxes.php:110
+msgid "Header Slider Options"
+msgstr ""
+
+#: ../includes/meta-boxes.php:126
+msgid "Slider"
+msgstr ""
+
+#: ../includes/meta-boxes.php:129
+msgid "Select Slider which appear in header area"
+msgstr ""
+
+#: ../includes/meta-boxes.php:138
+msgid "No Slider"
+msgstr ""
+
+#: ../includes/meta-boxes.php:139
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../includes/meta-boxes.php:140
+msgid "Custom Code for Slider"
+msgstr ""
+
+#: ../includes/meta-boxes.php:154
+msgid "Custom Slider Code"
+msgstr ""
+
+#: ../includes/meta-boxes.php:183
+msgid "Add Curved style at slider bottom"
+msgstr ""
+
+#: ../includes/meta-boxes.php:186
+msgid "Select YES to to show curved effect at slider bottom."
+msgstr ""
+
+#: ../includes/meta-boxes.php:211
+msgid "Content below slider"
+msgstr ""
+
+#: ../includes/meta-boxes.php:214
+msgid "This content will appear below slider. HTML allowed."
+msgstr ""
+
+#: ../includes/meta-boxes.php:257
+msgid "Hide Titlebar?"
+msgstr ""
+
+#: ../includes/meta-boxes.php:260
+msgid "Select YES to hide Titlebar."
+msgstr ""
+
+#: ../includes/meta-boxes.php:275
+msgid "Custom title to show in Titlebar"
+msgstr ""
+
+#: ../includes/meta-boxes.php:278
+msgid ""
+"(Optional) This text will be available as Title in Titlebar. Leave blank for default "
+"title"
+msgstr ""
+
+#: ../includes/meta-boxes.php:299
+msgid "Custom Sub-title to show in Titlebar"
+msgstr ""
+
+#: ../includes/meta-boxes.php:302
+msgid ""
+"(Optional) This text will be available as Sub-title in Titlebar. Leave blank for "
+"default title"
+msgstr ""
+
+#: ../includes/meta-boxes.php:323
+msgid "Titlebar BG image"
+msgstr ""
+
+#: ../includes/meta-boxes.php:326
+msgid "(Optional) Set titlebar background image for this page/post only."
+msgstr ""
+
+#: ../includes/meta-boxes.php:355
+msgid "Titlebar BG Color"
+msgstr ""
+
+#: ../includes/meta-boxes.php:358
+msgid "(Optional) Set background color for Titlebar."
+msgstr ""
+
+#: ../includes/meta-boxes.php:379
+msgid "Titlebar BG Color Opacity"
+msgstr ""
+
+#: ../includes/meta-boxes.php:382
+msgid "(Optional) Set opacity for background color set for Titlebar."
+msgstr ""
+
+#: ../includes/meta-boxes.php:412
+msgid "Background Options"
+msgstr ""
+
+#: ../includes/meta-boxes.php:428
+msgid "BG image"
+msgstr ""
+
+#: ../includes/meta-boxes.php:431
+msgid "(Optional) Set background image for this page/post only."
+msgstr ""
+
+#: ../includes/meta-boxes.php:451
+msgid "BG Color"
+msgstr ""
+
+#: ../includes/meta-boxes.php:454
+msgid "(Optional) Set background color."
+msgstr ""
+
+#: ../includes/meta-boxes.php:466
+msgid "BG Color Opacity"
+msgstr ""
+
+#: ../includes/meta-boxes.php:469
+msgid "(Optional) Set opacity for background color."
+msgstr ""
+
+#: ../includes/meta-boxes.php:537
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../includes/meta-boxes.php:540
+msgid "Select sidebar for this page/post only"
+msgstr ""
+
+#: ../includes/meta-boxes.php:644
+msgid "Lyfpro - Member's Details"
+msgstr ""
+
+#: ../includes/meta-boxes.php:648
+msgid "General Details"
+msgstr ""
+
+#: ../includes/meta-boxes.php:664
+msgid "Team Member's details"
+msgstr ""
+
+#: ../includes/meta-boxes.php:667
+msgid "Team Member details"
+msgstr ""
+
+#: ../includes/meta-boxes.php:679
+msgid "Designation"
+msgstr ""
+
+#: ../includes/meta-boxes.php:698 ../theme-parts/team-single-style-1.php:22
+#: ../theme-parts/team-single-style-2.php:24
+msgid "Phone"
+msgstr ""
+
+#: ../includes/meta-boxes.php:736
+msgid "Website Title"
+msgstr ""
+
+#: ../includes/meta-boxes.php:750
+msgid "Website URL"
+msgstr ""
+
+#: ../includes/meta-boxes.php:769 ../theme-parts/team-single-style-1.php:31
+#: ../theme-parts/team-single-style-2.php:33
+msgid "Fax"
+msgstr ""
+
+#: ../includes/meta-boxes.php:788
+msgid "One Line Info"
+msgstr ""
+
+#: ../includes/meta-boxes.php:791
+msgid ""
+"This will appear on \"Designervily Team Box\" Style-3 only. This will not appear on "
+"single view."
+msgstr ""
+
+#: ../includes/meta-boxes.php:795 ../includes/meta-boxes.php:1593
+msgid "Short Description"
+msgstr ""
+
+#: ../includes/meta-boxes.php:798
+msgid "This will appear on single view only."
+msgstr ""
+
+#: ../includes/meta-boxes.php:802
+msgid "Progress Bar 1 - Label"
+msgstr ""
+
+#: ../includes/meta-boxes.php:816
+msgid "Progress Bar 1 - Number"
+msgstr ""
+
+#: ../includes/meta-boxes.php:819 ../includes/meta-boxes.php:847
+msgid "Add number between 1 to 100"
+msgstr ""
+
+#: ../includes/meta-boxes.php:830
+msgid "Progress Bar 2 - Label"
+msgstr ""
+
+#: ../includes/meta-boxes.php:844
+msgid "Progress Bar 2 - Number"
+msgstr ""
+
+#: ../includes/meta-boxes.php:860 ../includes/meta-boxes.php:876
+msgid "Social Links"
+msgstr ""
+
+#: ../includes/meta-boxes.php:879
+msgid "Select Social links for this Team Member"
+msgstr ""
+
+#: ../includes/meta-boxes.php:918
+msgid "Client Logo Hover"
+msgstr ""
+
+#: ../includes/meta-boxes.php:922
+msgid "Select Logo for Hover effect. This logo will appear on mouse over."
+msgstr ""
+
+#: ../includes/meta-boxes.php:948 ../includes/meta-boxes.php:980
+msgid "Hover image of client logo"
+msgstr ""
+
+#: ../includes/meta-boxes.php:954
+msgid "Client Logo Link"
+msgstr ""
+
+#: ../includes/meta-boxes.php:958
+msgid "Set Link for the logo"
+msgstr ""
+
+#: ../includes/meta-boxes.php:995
+msgid "Lyfpro - Post Format Video Options"
+msgstr ""
+
+#: ../includes/meta-boxes.php:999
+msgid "Video URL (like Youtube or Vimeo) OR Embed Code"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1002 ../includes/meta-boxes.php:1205
+msgid "Add Youtube or Vimeo URL here. Also you can paste embed code here."
+msgstr ""
+
+#: ../includes/meta-boxes.php:1039
+msgid "Lyfpro - Post Format Quote Options"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1043
+msgid "Source Name"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1046
+msgid "Add source name of the quote."
+msgstr ""
+
+#: ../includes/meta-boxes.php:1062
+msgid "Source URL"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1065
+msgid "Add source link of the quote."
+msgstr ""
+
+#: ../includes/meta-boxes.php:1102
+msgid "Lyfpro - Post Format Link Options"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1106
+msgid "Link Title"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1109
+msgid "Add link title."
+msgstr ""
+
+#: ../includes/meta-boxes.php:1125
+msgid "Link URL"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1128
+msgid "Add link URL."
+msgstr ""
+
+#: ../includes/meta-boxes.php:1166 ../includes/meta-boxes.php:1170
+msgid "Image Gallery"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1173
+msgid "Select image for slider"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1198
+msgid "Lyfpro - Post Format Audio Options"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1202
+msgid "Audio URL (like SoundCloud) OR Embed Code"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1249
+msgid "Lyfpro - Featured Data Type"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1253
+msgid "Featured Data Type"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1256
+msgid "Select type of featured content"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1265
+msgid "Featured Image (default)"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1266
+msgid "Image Slider"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1267
+msgid "Video"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1268
+msgid "Audio"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1279
+msgid "Slider Images"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1282
+msgid "Select images for slider"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1305
+msgid "Video URL"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1308
+msgid "Add video URL from YouTube or Vimeo"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1332
+msgid "Audio URL"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1335
+msgid "Add audio URL from SoundCloud or MP3"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1398
+msgid "(Category with link)"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1400
+msgid "(Category without link)"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1420
+msgid "Lyfpro - Portfolio Details"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1424
+msgid "Portfolio Details"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1427
+msgid "Fill the values for each option that applies. Leave blank to hide it."
+msgstr ""
+
+#: ../includes/meta-boxes.php:1466
+msgid "Lyfpro - Testimonial Details"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1470
+msgid "Details"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1473
+msgid "(optional) Add details like Company name, designation etc"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1489
+msgid "Star Ratings"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1492
+msgid "Select star ratings."
+msgstr ""
+
+#: ../includes/meta-boxes.php:1501
+msgid "No ratings"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1502
+msgid "1 star"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1503
+msgid "2 stars"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1504
+msgid "3 stars"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1505
+msgid "4 stars"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1506
+msgid "5 stars"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1550 ../includes/meta-boxes.php:1641
+msgid "Select Icon Library"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1553 ../includes/meta-boxes.php:1644
+msgid "Select Icon Library."
+msgstr ""
+
+#: ../includes/meta-boxes.php:1577 ../includes/meta-boxes.php:1668
+msgid "Select icon from here"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1589
+msgid "Lyfpro - Short Description"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1596
+msgid "This will appear on single view"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1688
+msgid "Lyfpro - Icon for Single"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1730 ../includes/meta-boxes.php:1792
+#, php-format
+msgid "Lyfpro - %1$s Single View Option"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1734 ../includes/meta-boxes.php:1796
+#, php-format
+msgid "%1$s Single View"
+msgstr ""
+
+#: ../includes/meta-boxes.php:1737 ../includes/meta-boxes.php:1799
+#, php-format
+msgid "Select %1$s Single View"
+msgstr ""
+
+#: ../page.php:28 ../theme-parts/job-listing-single.php:74
+#: ../theme-parts/post-classic.php:104
+msgid "Pages:"
+msgstr ""
+
+#: ../searchform.php:16
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../setup/envato-setup-export.php:206
+msgid "Export Done"
+msgstr ""
+
+#: ../setup/envato-setup-export.php:208
+msgid "Export content has been placed into below folder."
+msgstr ""
+
+#: ../setup/envato-setup-export.php:212
+msgid "Stock images have been copied into below folder for faster theme install."
+msgstr ""
+
+#: ../setup/envato_setup.php:383 ../setup/envato_setup.php:388
+msgid "Setup Wizard"
+msgstr ""
+
+#: ../setup/envato_setup.php:408
+msgid "Introduction"
+msgstr ""
+
+#: ../setup/envato_setup.php:415
+msgid "Plugins"
+msgstr ""
+
+#: ../setup/envato_setup.php:421
+msgid "Updates"
+msgstr ""
+
+#: ../setup/envato_setup.php:427
+msgid "Style"
+msgstr ""
+
+#: ../setup/envato_setup.php:443
+msgid "Customize"
+msgstr ""
+
+#: ../setup/envato_setup.php:448
+msgid "Support"
+msgstr ""
+
+#: ../setup/envato_setup.php:453
+msgid "Ready!"
+msgstr ""
+
+#: ../setup/envato_setup.php:486
+msgid "...verifying"
+msgstr ""
+
+#: ../setup/envato_setup.php:550
+msgid "lyfpro Theme Setup Wizard"
+msgstr ""
+
+#: ../setup/envato_setup.php:576
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: ../setup/envato_setup.php:637
+#, php-format
+msgid "Post type %1$s not found."
+msgstr ""
+
+#: ../setup/envato_setup.php:639
+#, php-format
+msgid "Looking for post id %1$s"
+msgstr ""
+
+#: ../setup/envato_setup.php:660 ../setup/envato_setup.php:671
+#: ../setup/envato_setup.php:694
+#, php-format
+msgid "Welcome to the setup wizard for %s."
+msgstr ""
+
+#: ../setup/envato_setup.php:661
+msgid ""
+"It looks like you may have recently upgraded to this theme. Great! This setup wizard "
+"will help ensure all the default settings are correct. It will also show some "
+"information about your new website and support options."
+msgstr ""
+
+#: ../setup/envato_setup.php:664 ../setup/envato_setup.php:699
+msgid "Let's Go!"
+msgstr ""
+
+#: ../setup/envato_setup.php:666 ../setup/envato_setup.php:701
+msgid "Not right now"
+msgstr ""
+
+#: ../setup/envato_setup.php:672
+msgid "It looks like you have already run the setup wizard. Below are some options: "
+msgstr ""
+
+#: ../setup/envato_setup.php:676
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: ../setup/envato_setup.php:682
+msgid "Reset font style and colors"
+msgstr ""
+
+#: ../setup/envato_setup.php:695
+#, php-format
+msgid ""
+"Thank you for choosing the %s theme from ThemeForest. This quick setup wizard will "
+"help you configure your new website. This wizard will install the required WordPress "
+"plugins, default content, logo and tell you a little about Help &amp; Support "
+"options. It should only take 5 minutes."
+msgstr ""
+
+#: ../setup/envato_setup.php:696
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip and "
+"return to the WordPress dashboard. Come back anytime if you change your mind!"
+msgstr ""
+
+#: ../setup/envato_setup.php:743
+msgid ""
+"Options have been reset. Please go to Appearance > Customize in the WordPress backend."
+msgstr ""
+
+#: ../setup/envato_setup.php:819
+msgid "Default Plugins"
+msgstr ""
+
+#: ../setup/envato_setup.php:826
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be installed "
+"or updated:"
+msgstr ""
+
+#: ../setup/envato_setup.php:851
+msgid "Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: ../setup/envato_setup.php:854
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: ../setup/envato_setup.php:859 ../setup/envato_setup.php:1032
+#: ../setup/envato_setup.php:2278 ../setup/envato_setup.php:2433
+#: ../setup/envato_setup.php:2534 ../setup/envato_setup.php:2602
+msgid "Continue"
+msgstr ""
+
+#: ../setup/envato_setup.php:861 ../setup/envato_setup.php:1034
+#: ../setup/envato_setup.php:2280 ../setup/envato_setup.php:2435
+#: ../setup/envato_setup.php:2546
+msgid "Skip this step"
+msgstr ""
+
+#: ../setup/envato_setup.php:871
+msgid "No Slug Found"
+msgstr ""
+
+#: ../setup/envato_setup.php:887
+msgid "Activating Plugin"
+msgstr ""
+
+#: ../setup/envato_setup.php:902
+msgid "Updating Plugin"
+msgstr ""
+
+#: ../setup/envato_setup.php:917
+msgid "Installing Plugin"
+msgstr ""
+
+#: ../setup/envato_setup.php:927
+msgid "Success"
+msgstr ""
+
+#: ../setup/envato_setup.php:949
+#, php-format
+msgid "This will create default %s as seen in the demo."
+msgstr ""
+
+#: ../setup/envato_setup.php:950 ../setup/envato_setup.php:963
+#: ../setup/envato_setup.php:973
+msgid "Pending."
+msgstr ""
+
+#: ../setup/envato_setup.php:951
+msgid "Installing."
+msgstr ""
+
+#: ../setup/envato_setup.php:952 ../setup/envato_setup.php:965
+#: ../setup/envato_setup.php:975
+msgid "Success."
+msgstr ""
+
+#: ../setup/envato_setup.php:961
+msgid "Widgets"
+msgstr ""
+
+#: ../setup/envato_setup.php:962
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+
+#: ../setup/envato_setup.php:964
+msgid "Installing Default Widgets."
+msgstr ""
+
+#: ../setup/envato_setup.php:971
+msgid "Settings"
+msgstr ""
+
+#: ../setup/envato_setup.php:972
+msgid "Configure default settings."
+msgstr ""
+
+#: ../setup/envato_setup.php:974
+msgid "Installing Default Settings."
+msgstr ""
+
+#: ../setup/envato_setup.php:992
+msgid "Default Content"
+msgstr ""
+
+#: ../setup/envato_setup.php:995
+msgid ""
+"It looks like you already have content installed on this website. If you would like "
+"to install the default demo content as well you can select it below. Otherwise just "
+"choose the upgrade option to ensure everything is up to date."
+msgstr ""
+
+#: ../setup/envato_setup.php:997
+msgid ""
+"It's time to insert some default content for your new WordPress website. Choose what "
+"you would like inserted below and click Continue. It is recommended to leave "
+"everything selected. Once inserted, this content can be managed from the WordPress "
+"admin dashboard. "
+msgstr ""
+
+#: ../setup/envato_setup.php:1003
+msgid "Item"
+msgstr ""
+
+#: ../setup/envato_setup.php:1045
+msgid "No content Found"
+msgstr ""
+
+#: ../setup/envato_setup.php:1113
+msgid "Error"
+msgstr ""
+
+#: ../setup/envato_setup.php:1963
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../setup/envato_setup.php:1971
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../setup/envato_setup.php:1977
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../setup/envato_setup.php:1983
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../setup/envato_setup.php:2249
+msgid "Site Style"
+msgstr ""
+
+#: ../setup/envato_setup.php:2251
+msgid "Please choose your site style below."
+msgstr ""
+
+#: ../setup/envato_setup.php:2265
+msgid "See Preview"
+msgstr ""
+
+#: ../setup/envato_setup.php:2309
+msgid "Select Logo &amp; Global Color for your site"
+msgstr ""
+
+#: ../setup/envato_setup.php:2314
+msgid "1"
+msgstr ""
+
+#: ../setup/envato_setup.php:2314
+msgid "Select Logo"
+msgstr ""
+
+#: ../setup/envato_setup.php:2316
+#, php-format
+msgid ""
+"Please add your logo below. For best results, the logo should be a transparent PNG. "
+"The logo can be changed at any time from the %1$sAppearance > Customize > lyfpro "
+"Options > General Options%2$s area in your dashboard."
+msgstr ""
+
+#: ../setup/envato_setup.php:2336
+msgid "Upload New Logo"
+msgstr ""
+
+#: ../setup/envato_setup.php:2347
+msgid "2"
+msgstr ""
+
+#: ../setup/envato_setup.php:2347
+msgid "Select Theme Colors"
+msgstr ""
+
+#: ../setup/envato_setup.php:2353
+msgid "Select Global Color"
+msgstr ""
+
+#: ../setup/envato_setup.php:2360 ../setup/envato_setup.php:2382
+msgid "Auto Detected Colors:"
+msgstr ""
+
+#: ../setup/envato_setup.php:2361 ../setup/envato_setup.php:2383
+msgid ""
+"Here is the list of auto-detected colors. Just CLICK on any color you want to set:"
+msgstr ""
+
+#: ../setup/envato_setup.php:2375
+msgid "Select Secondary Color"
+msgstr ""
+
+#: ../setup/envato_setup.php:2506
+msgid "Theme Updates"
+msgstr ""
+
+#: ../setup/envato_setup.php:2529 ../setup/envato_setup.php:2540
+msgid ""
+"When an update becomes available it will show in the Dashboard with an option to "
+"install."
+msgstr ""
+
+#: ../setup/envato_setup.php:2530
+msgid "Change settings from the \"Envato Market\" menu in the WordPress Dashboard."
+msgstr ""
+
+#: ../setup/envato_setup.php:2539
+msgid ""
+"Please login using your ThemeForest account to enable Theme Updates. We update themes "
+"when a new feature is added or a bug is fixed. It is highly recommended to enable "
+"Theme Updates."
+msgstr ""
+
+#: ../setup/envato_setup.php:2541
+msgid ""
+"On the next page you will be asked to Login with your ThemeForest account and grant "
+"permissions to enable Automatic Updates."
+msgstr ""
+
+#: ../setup/envato_setup.php:2544
+msgid "Login with Envato"
+msgstr ""
+
+#: ../setup/envato_setup.php:2552
+msgid "Please ensure the Envato Market plugin has been installed correctly."
+msgstr ""
+
+#: ../setup/envato_setup.php:2552
+msgid "Return to Required Plugins installer"
+msgstr ""
+
+#: ../setup/envato_setup.php:2574
+msgid "Theme Customization"
+msgstr ""
+
+#: ../setup/envato_setup.php:2575
+msgid ""
+"Most changes to the website can be made through the \"Appearance > Customize\" menu "
+"from the WordPress\n"
+"                dashboard. These include:"
+msgstr ""
+
+#: ../setup/envato_setup.php:2583
+msgid "Customize Options Preview"
+msgstr ""
+
+#: ../setup/envato_setup.php:2588
+msgid ""
+"Colors: Set or change global color and also secondary color. Apply your business "
+"color in whole site."
+msgstr ""
+
+#: ../setup/envato_setup.php:2589
+msgid ""
+"Typography: Font Sizes, Style, Colors (over 200 fonts to choose from) for various "
+"page elements."
+msgstr ""
+
+#: ../setup/envato_setup.php:2590
+msgid "Logo: Upload a new logo and adjust its size."
+msgstr ""
+
+#: ../setup/envato_setup.php:2591
+msgid "Header: Change header style and edit texts in header area"
+msgstr ""
+
+#: ../setup/envato_setup.php:2592
+msgid "Footer: Set column for footer widgets and change background image or color."
+msgstr ""
+
+#: ../setup/envato_setup.php:2593
+msgid "and more ..."
+msgstr ""
+
+#: ../setup/envato_setup.php:2628
+msgid "Documentation"
+msgstr ""
+
+#: ../setup/envato_setup.php:2629
+msgid "Here is a link to theme documentation, please bookmark for future reference:"
+msgstr ""
+
+#: ../setup/envato_setup.php:2633
+msgid "Read lyfpro theme Document"
+msgstr ""
+
+#: ../setup/envato_setup.php:2636
+msgid "Question? Create ticket on our support"
+msgstr ""
+
+#: ../setup/envato_setup.php:2645
+msgid "Help and Support"
+msgstr ""
+
+#: ../setup/envato_setup.php:2649
+#, php-format
+msgid ""
+"We have a dedicated support system and team to help you for our theme support. just "
+"create a ticket on our support at %1$s and we will reply within 24 hours. Generally "
+"you will get reply within 12 hours."
+msgstr ""
+
+#: ../setup/envato_setup.php:2655
+#, php-format
+msgid ""
+"We recommend you to read our %1$s theme document%2$s before creating ticket so you "
+"can solve your question fast and also understand our system properly."
+msgstr ""
+
+#: ../setup/envato_setup.php:2664
+msgid "Got it, Continue"
+msgstr ""
+
+#: ../setup/envato_setup.php:2693
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: ../setup/envato_setup.php:2695
+msgid ""
+"Congratulations! The theme has been activated and your website is ready. Login to "
+"your WordPress dashboard to make changes and modify any of the default content to "
+"suit your needs."
+msgstr ""
+
+#: ../setup/envato_setup.php:2697
+#, php-format
+msgid ""
+"Please come back and %1$s leave a 5-star rating%2$s if you are happy with this theme."
+msgstr ""
+
+#: ../setup/envato_setup.php:2701
+msgid "Next Steps"
+msgstr ""
+
+#: ../setup/envato_setup.php:2703
+msgid "Go to Dashboard"
+msgstr ""
+
+#: ../setup/envato_setup.php:2705
+msgid "View your new website!"
+msgstr ""
+
+#: ../setup/envato_setup.php:2710
+msgid "More Resources"
+msgstr ""
+
+#: ../setup/envato_setup.php:2712
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: ../setup/envato_setup.php:2713
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: ../setup/envato_setup.php:2714
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: ../setup/envato_setup.php:2715
+msgid "Get Help and Support"
+msgstr ""
+
+#: ../setup/envato_setup.php:2796
+#, php-format
+msgid "Something went wrong while trying to retrieve oauth token: %1$s"
+msgstr ""
+
+#: ../setup/envato_setup.php:2805
+msgid "Failed to get oAuth token. Please go back and try again"
+msgstr ""
+
+#: ../setup/envato_setup.php:2813
+#, php-format
+msgid "Login for %s updates"
+msgstr ""
+
+#: ../setup/envato_setup.php:2820
+msgid "oAuth Login"
+msgstr ""
+
+#: ../setup/envato_setup.php:2997
+msgid ""
+"Please activate ThemeForest updates to ensure you have the latest version of this "
+"theme."
+msgstr ""
+
+#: ../setup/envato_setup.php:3000
+#, php-format
+msgid "<a class=\"button button-primary\" href=\"%s\">Activate Updates</a>"
+msgstr ""
+
+#: ../setup/envato_setup.php:3086
+#, php-format
+msgid ""
+"If you have purchased items from %1$s on ThemeForest or CodeCanyon please login here "
+"for quick and easy updates."
+msgstr ""
+
+#: ../sidebar.php:22 ../sidebar.php:29 ../sidebar.php:32
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: ../sidebar.php:35
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: ../sidebar.php:38
+msgid "Portfolio Category Sidebar"
+msgstr ""
+
+#: ../sidebar.php:41
+msgid "Service Sidebar"
+msgstr ""
+
+#: ../sidebar.php:44
+msgid "Service Category Sidebar"
+msgstr ""
+
+#: ../sidebar.php:47
+msgid "Team Member Sidebar"
+msgstr ""
+
+#: ../sidebar.php:50
+msgid "Team Group Sidebar"
+msgstr ""
+
+#: ../taxonomy-dsvy-service-category.php:56
+msgid "More Details"
+msgstr ""
+
+#: ../theme-parts/blog/blog-style-1.php:12 ../theme-parts/blog/blog-style-2.php:13
+#: ../theme-parts/post-author-info.php:13
+#, php-format
+msgid "Posted by %1$s"
+msgstr ""
+
+#: ../theme-parts/blog/blog-style-1.php:12 ../theme-parts/blog/blog-style-2.php:13
+#, php-format
+msgid "by %1$s"
+msgstr ""
+
+#: ../theme-parts/portfolio-single-style-1.php:47
+#: ../theme-parts/portfolio-single-style-2.php:33 ../theme-parts/portfolio-single.php:51
+#: ../theme-parts/service-single-style-1.php:36
+#: ../theme-parts/service-single-style-2.php:46
+#, php-format
+msgid "Previous %1$s"
+msgstr ""
+
+#: ../theme-parts/portfolio-single-style-1.php:48
+#: ../theme-parts/portfolio-single-style-2.php:34 ../theme-parts/portfolio-single.php:52
+#: ../theme-parts/service-single-style-1.php:37
+#: ../theme-parts/service-single-style-2.php:47
+#, php-format
+msgid "Next %1$s"
+msgstr ""
+
+#: ../theme-parts/post-bottom-meta.php:23
+msgid "Tags:"
+msgstr ""
+
+#: ../theme-parts/post-meta.php:51
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: ../theme-parts/service-single-style-2.php:27
+msgid "About the project"
+msgstr ""
+
+#: ../theme_setup_class.php:197
+msgid "Please set the correct email addresses on your contact forms"
+msgstr ""
+
+#: ../theme_setup_class.php:546
+msgid "Widget Styles"
+msgstr ""
+
+#: ../theme_setup_class.php:668
+#, php-format
+msgid "Default (%s)"
+msgstr ""
+
+#: ../theme_setup_class.php:695
+msgid " (Press Save)"
+msgstr ""

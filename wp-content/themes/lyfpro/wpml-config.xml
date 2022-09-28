@@ -1,0 +1,26 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">dsvy-portfolio</custom-type>
+    <custom-type translate="1">dsvy-service</custom-type>
+    <custom-type translate="1">dsvy-team-member</custom-type>
+    <custom-type translate="1">dsvy-testimonial</custom-type>
+    <custom-type translate="1">dsvy-client</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">dsvy-portfolio-category</taxonomy>
+    <taxonomy translate="1">dsvy-service-category</taxonomy>
+    <taxonomy translate="1">dsvy-team-group</taxonomy>
+    <taxonomy translate="1">dsvy-testimonial-cat</taxonomy>
+    <taxonomy translate="1">dsvy-client-group</taxonomy>
+  </taxonomies>
+  <admin-texts>
+    <key name="theme_mods_lyfpro">
+      <key name="header-btn-text"/>
+      <key name="copyright-text"/>
+      <key name="portfolio-details">
+        <key name="line_title"/>
+        <key name="line_type"/>
+      </key>
+    </key>
+  </admin-texts>
+</wpml-config>
